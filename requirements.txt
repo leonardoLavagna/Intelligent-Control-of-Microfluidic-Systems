@@ -1,0 +1,16 @@
+streamlit 
+joypy 
+umap-learn
+plotly 
+seaborn
+matplotlib 
+pandas 
+openpyxl
+numpy
+squarify
+scipy
+xgboost
+rapidfuzz
+scikit-learn
+imbalanced-learn
+torch

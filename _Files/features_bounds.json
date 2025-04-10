@@ -1,0 +1,13 @@
+{   
+    "ML": ["HSPC","ESM"],
+    "CHIP": ["Micromixer", "Droplet"],
+    "ESM": [0,25],
+    "HSPC": [0,25],
+    "CHOL": [0,25],
+    "PEG": [0,15],
+    "TFR": [0, 3],
+    "FRR": [1,50],
+    "BUFFER": ["MQ","PBS"],
+    "SIZE": [0,10000],
+    "PDI": [0,1]
+}

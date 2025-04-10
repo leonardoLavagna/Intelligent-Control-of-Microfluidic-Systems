@@ -1,0 +1,19 @@
+2025-04-10 14:19:59 - INFO - STARTING THE RANDOM FOREST MODEL TRAINING FOR PREDICTING SIZE...
+2025-04-10 14:19:59 - INFO - ---> Loading dataset from Data/data_1.csv
+2025-04-10 14:20:01 - INFO - Cross-validation results:
+2025-04-10 14:20:01 - INFO - Average R-squared: 0.4755
+2025-04-10 14:20:01 - INFO - Average Mean Squared Error: 495527.3797
+2025-04-10 14:20:01 - INFO - Average Mean Absolute Error: 175.2978
+2025-04-10 14:20:01 - INFO - Final model evaluation:
+2025-04-10 14:20:01 - INFO - R-squared: 0.6990
+2025-04-10 14:20:01 - INFO - Mean Squared Error: 371064.7162
+2025-04-10 14:20:01 - INFO - Mean Absolute Error: 157.9506
+2025-04-10 14:20:01 - INFO - Model saved successfully at _Models/random_forest_size.pkl
+2025-04-10 14:20:01 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-10 14:20:01 - INFO - Model validation completed successfully.
+2025-04-10 14:20:01 - INFO - Validation R-squared: 0.6970
+2025-04-10 14:20:01 - INFO - Validation Mean Squared Error: 76148.1780
+2025-04-10 14:20:01 - INFO - Validation Mean Absolute Error: 128.1966
+2025-04-10 14:20:01 - INFO - ...DONE!
+
+

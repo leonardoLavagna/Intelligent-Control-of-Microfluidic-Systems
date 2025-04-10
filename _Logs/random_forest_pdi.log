@@ -1,0 +1,19 @@
+2025-04-10 14:19:20 - INFO - STARTING THE RANDOM FOREST MODEL TRAINING FOR PREDICTING PDI...
+2025-04-10 14:19:20 - INFO - ---> Loading dataset from Data/data_1.csv
+2025-04-10 14:19:21 - INFO - Cross-validation results:
+2025-04-10 14:19:21 - INFO - Average R-squared: 0.8827
+2025-04-10 14:19:21 - INFO - Average Mean Squared Error: 0.0037
+2025-04-10 14:19:21 - INFO - Average Mean Absolute Error: 0.0376
+2025-04-10 14:19:22 - INFO - Final model evaluation:
+2025-04-10 14:19:22 - INFO - R-squared: 0.8997
+2025-04-10 14:19:22 - INFO - Mean Squared Error: 0.0032
+2025-04-10 14:19:22 - INFO - Mean Absolute Error: 0.0365
+2025-04-10 14:19:22 - INFO - Model saved successfully at _Models/random_forest_pdi.pkl
+2025-04-10 14:19:22 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-10 14:19:22 - INFO - Model validation completed successfully.
+2025-04-10 14:19:22 - INFO - Validation R-squared: 0.8173
+2025-04-10 14:19:22 - INFO - Validation Mean Squared Error: 0.0087
+2025-04-10 14:19:22 - INFO - Validation Mean Absolute Error: 0.0560
+2025-04-10 14:19:22 - INFO - ...DONE!
+
+

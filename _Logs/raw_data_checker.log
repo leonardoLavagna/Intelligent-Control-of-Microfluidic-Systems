@@ -1,0 +1,44 @@
+2025-04-10 14:07:16 - INFO - CHECKING RAW DATA...
+2025-04-10 14:07:16 - INFO - ---> Processing _Raw_Data/seed.xlsx...
+2025-04-10 14:07:16 - WARNING - Renamed 'Main Lipid' to 'ML' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Chip' to 'CHIP' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'ESM concentration (mg/mL)' to 'ESM' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'HSPC concentration mg/mL' to 'HSPC' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Cholesterol concentration (mg/mL)' to 'CHOL' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'DSPE-PEG2000 concentration mg/mL' to 'PEG' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'TFR mL/min' to 'TFR' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Aqueous medium' to 'AQUEOUS' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Formation' to 'OUTPUT' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Size (nm)' to 'SIZE' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - CHIP: Replacing invalid 'droplet' with 'Droplet' (fuzzy match).
+2025-04-10 14:07:16 - WARNING - CHIP: Replacing invalid 'Micromixer ' with 'Micromixer' (fuzzy match).
+2025-04-10 14:07:16 - WARNING - FRR: Replacing out-of-bounds values with NaN.
+2025-04-10 14:07:16 - WARNING - SIZE: Replacing out-of-bounds values with NaN.
+2025-04-10 14:07:16 - INFO - Processed data saved to _Raw_Data/seed.csv
+2025-04-10 14:07:16 - INFO - ---> Processing _Raw_Data/validation_1.xlsx...
+2025-04-10 14:07:16 - WARNING - Renamed 'Main Lipid' to 'ML' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Chip' to 'CHIP' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'ESM concentration (mg/mL)' to 'ESM' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'HSPC concentration mg/mL' to 'HSPC' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Cholesterol concentration (mg/mL)' to 'CHOL' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'DSPE-PEG2000 concentration mg/mL' to 'PEG' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'TFR mL/min' to 'TFR' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Aqueous medium' to 'AQUEOUS' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Formation' to 'OUTPUT' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Size (nm)' to 'SIZE' based on custom renaming rules.
+2025-04-10 14:07:16 - INFO - Processed data saved to _Raw_Data/validation_1.csv
+2025-04-10 14:07:16 - INFO - ---> Processing _Raw_Data/extension_1.xlsx...
+2025-04-10 14:07:16 - WARNING - Renamed 'Main Lipid' to 'ML' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Chip' to 'CHIP' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'ESM concentration (mg/mL)' to 'ESM' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'HSPC concentration mg/mL' to 'HSPC' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Cholesterol concentration (mg/mL)' to 'CHOL' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'TFR mL/min' to 'TFR' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Buffer' to 'AQUEOUS' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renamed 'Size (nm)' to 'SIZE' based on custom renaming rules.
+2025-04-10 14:07:16 - WARNING - Renaming 'DSPE-PEG2000 concentration (mg/mL)' to 'PEG' based on fuzzy matching.
+2025-04-10 14:07:16 - INFO - Processed data saved to _Raw_Data/extension_1.csv
+2025-04-10 14:07:16 - INFO - Total changes made: 59
+2025-04-10 14:07:16 - INFO - ...DONE!
+
+

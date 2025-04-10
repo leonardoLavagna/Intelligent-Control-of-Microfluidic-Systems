@@ -1,0 +1,13 @@
+{
+    "Main Lipid": "ML",
+    "Chip": "CHIP",
+    "ESM concentration (mg/mL)": "ESM",
+    "HSPC concentration mg/mL": "HSPC",
+    "Cholesterol concentration (mg/mL)": "CHOL",
+    "DSPE-PEG2000 concentration mg/mL": "PEG",
+    "TFR mL/min": "TFR",
+    "Aqueous medium": "AQUEOUS",
+    "Buffer": "AQUEOUS",
+    "Formation": "OUTPUT",
+    "Size (nm)": "SIZE"
+}

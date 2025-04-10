@@ -1,0 +1,39 @@
+2025-04-10 14:07:36 - INFO - Starting data slicing pipeline...
+2025-04-10 14:07:36 - WARNING - Skipping non-CSV file: seed.xlsx
+2025-04-10 14:07:36 - WARNING - Skipping non-CSV file: .DS_Store
+2025-04-10 14:07:36 - INFO - ---> Processing file: seed.csv
+2025-04-10 14:07:36 - INFO - STARTING RAW DATA AGGREGATION...
+2025-04-10 14:07:36 - INFO - ---> Reading _Raw_Data/seed.csv...
+2025-04-10 14:07:36 - INFO - Data loaded successfully with 275 rows and 13 columns.
+2025-04-10 14:07:36 - INFO - Dropping rows with missing values...
+2025-04-10 14:07:36 - INFO - Data after dropping missing values: 270 rows.
+2025-04-10 14:07:36 - INFO - Aggregating data by CHIP
+2025-04-10 14:07:36 - INFO - Aggregating for CHIP: Droplet - 24 rows.
+2025-04-10 14:07:36 - INFO - Saved aggregated data.
+2025-04-10 14:07:36 - INFO - Aggregating for CHIP: Micromixer - 246 rows.
+2025-04-10 14:07:36 - INFO - Saved aggregated data.
+2025-04-10 14:07:36 - WARNING - Skipping non-CSV file: validation_1.xlsx
+2025-04-10 14:07:36 - WARNING - Skipping non-CSV file: extension_1.xlsx
+2025-04-10 14:07:36 - INFO - ---> Processing file: extension_1.csv
+2025-04-10 14:07:36 - INFO - STARTING RAW DATA AGGREGATION...
+2025-04-10 14:07:36 - INFO - ---> Reading _Raw_Data/extension_1.csv...
+2025-04-10 14:07:36 - INFO - Data loaded successfully with 57 rows and 13 columns.
+2025-04-10 14:07:36 - INFO - Dropping rows with missing values...
+2025-04-10 14:07:36 - INFO - Data after dropping missing values: 57 rows.
+2025-04-10 14:07:36 - INFO - Aggregating data by CHIP
+2025-04-10 14:07:36 - INFO - Aggregating for CHIP: Micromixer - 57 rows.
+2025-04-10 14:07:36 - INFO - Saved aggregated data.
+2025-04-10 14:07:36 - INFO - ---> Processing file: validation_1.csv
+2025-04-10 14:07:36 - INFO - STARTING RAW DATA AGGREGATION...
+2025-04-10 14:07:36 - INFO - ---> Reading _Raw_Data/validation_1.csv...
+2025-04-10 14:07:36 - INFO - Data loaded successfully with 19 rows and 13 columns.
+2025-04-10 14:07:36 - INFO - Dropping rows with missing values...
+2025-04-10 14:07:36 - INFO - Data after dropping missing values: 19 rows.
+2025-04-10 14:07:36 - INFO - Aggregating data by CHIP
+2025-04-10 14:07:36 - INFO - Aggregating for CHIP: Droplet - 7 rows.
+2025-04-10 14:07:36 - INFO - Saved aggregated data.
+2025-04-10 14:07:36 - INFO - Aggregating for CHIP: Micromixer - 12 rows.
+2025-04-10 14:07:36 - INFO - Saved aggregated data.
+2025-04-10 14:07:36 - INFO - ...DONE!
+
+
