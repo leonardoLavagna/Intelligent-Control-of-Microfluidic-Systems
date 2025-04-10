@@ -21,7 +21,7 @@ from _Files.config import logs_path, data_path, models_path, setup_logging
 
 file_path = data_path + "/data_1.csv"
 DATA = pd.read_csv(file_path)
-target_variable = "PDI"  
+target_variable = "SIZE"  
 
 
 setup_logging(logs_path, f"xgboost_one_target_{target_variable.lower()}.log")

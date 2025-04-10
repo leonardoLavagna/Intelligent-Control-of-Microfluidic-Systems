@@ -1,0 +1,17 @@
+2025-04-10 17:43:16 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE...
+2025-04-10 17:43:16 - INFO - ---> Loading dataset from Data/data_1.csv
+2025-04-10 17:43:16 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
+2025-04-10 17:43:19 - INFO - Model training completed successfully for seed 42.
+2025-04-10 17:43:19 - INFO - Training R-squared: 0.9889660477638245, Validation R-squared: 0.6280895471572876
+2025-04-10 17:43:19 - INFO - Training Mean Squared Error: 12858.2998046875, Validation Mean Squared Error: 458466.78125
+2025-04-10 17:43:19 - INFO - Training Mean Absolute Error: 11.571659088134766, Validation Mean Absolute Error: 162.07046508789062
+2025-04-10 17:43:19 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-10 17:43:19 - INFO - Validation R-squared for seed 42: -0.1455007791519165
+2025-04-10 17:43:19 - INFO - Validation Mean Squared Error for seed 42: 287848.46875
+2025-04-10 17:43:19 - INFO - Validation Mean Absolute Error for seed 42: 228.6011962890625
+2025-04-10 17:43:19 - INFO - New best model found for seed 42 with Training R-squared: 0.9889660477638245 and Validation R-squared: -0.1455007791519165
+2025-04-10 17:43:19 - INFO - ...DONE!
+
+
+2025-04-10 17:43:19 - INFO - Best model saved to _Models/best_xgboost_model_size.pkl
+2025-04-10 17:43:19 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 279...
