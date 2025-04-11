@@ -24,7 +24,8 @@ from _Files.config import logs_path, data_path, models_path, setup_logging
 setup_logging(logs_path, "vae_regressor_size.log")
 
 
-file_path = os.path.join(data_path, "data_1.csv")
+file_name = "data_3"
+file_path = os.path.join(data_path, f"{file_name}.csv")
 DATA = pd.read_csv(file_path)
 logging.info(f"STARTING VAE + REGRESSOR TRAINING for {file_path}...")
 

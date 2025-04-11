@@ -19,7 +19,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from _Files.config import logs_path, data_path, models_path, setup_logging
 
 
-file_name = "data_1"
+file_name = "data_3"
 file_path = data_path + f"/{file_name}.csv"
 DATA = pd.read_csv(file_path).dropna()
 

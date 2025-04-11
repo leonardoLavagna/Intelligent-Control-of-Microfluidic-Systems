@@ -31,7 +31,7 @@ csv_files = [f for f in os.listdir(DATA_PATH) if f.endswith('.csv')]
 data_dict = {}
 for file in csv_files:
     file_path = os.path.join(DATA_PATH, file)
-    data_dict[file] = pd.read_csv(file_path)
+    data_dict[file] = pd.read_csv(file_path).dropna()
 
 
 ######################################################################################################
@@ -55,7 +55,6 @@ def data_explorer(data, filename):
     buffer = io.StringIO()
     data.info(buf=buffer)
     logging.info(f"Dataset Info for {filename}:\n{buffer.getvalue()}")
-    logging.info(f"Missing Values for {filename}:\n{data.isnull().sum().to_string()}")
     logging.info(f"Summary Statistics for {filename}:\n{data.describe().to_string()}")
     logging.info(f"First 5 Rows for {filename}:\n{data.head().to_string()}")
     data.hist(bins=30, figsize=(12, 10))

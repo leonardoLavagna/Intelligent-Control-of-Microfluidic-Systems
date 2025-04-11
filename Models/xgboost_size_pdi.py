@@ -94,6 +94,7 @@ def run_model(seed, best_model_info):
     logging.info(f"Validation Mean Absolute Error for seed {seed}: {validation_mae}")
     # Update best model if needed
     if train_r2 > best_model_info["best_train_r2"] and validation_r2 > best_model_info["best_val_r2"]:
+        best_model_info["best_train_r2"] = train_r2
         best_model_info["best_val_r2"] = validation_r2
         best_model_info["best_seed"] = seed
         best_model_info["best_model"] = best_pipeline
@@ -117,7 +118,7 @@ for seed in seeds:
     run_model(seed, best_model_info)
 # Save the best model
 if best_model_info["best_model"] is not None:
-    model_save_path = os.path.join(models_path, f"best_xgboost_multi_target_{file_name}.pkl")
+    model_save_path = os.path.join(models_path, f"best_xgboost_size_pdi_{file_name}.pkl")
     with open(model_save_path, "wb") as f:
         pickle.dump(best_model_info["best_model"], f)
     logging.info(f"Best model saved to {model_save_path}")

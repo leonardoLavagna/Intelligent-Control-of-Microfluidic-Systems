@@ -1,406 +1,407 @@
-2025-04-11 12:20:25 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR PREDICTING SIZE...
-2025-04-11 12:20:25 - INFO - ---> Loading dataset from Data/data_1.csv
-2025-04-11 12:20:25 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 42...
-2025-04-11 12:20:29 - INFO - Model training completed successfully for seed 42.
-2025-04-11 12:20:29 - INFO - Training R-squared: 0.8015957876446478, Validation R-squared: 0.7339806418615764
-2025-04-11 12:20:29 - INFO - Training Mean Squared Error: 231207.78438933514, Validation Mean Squared Error: 327931.2504252979
-2025-04-11 12:20:29 - INFO - Training Mean Absolute Error: 121.67284373590928, Validation Mean Absolute Error: 160.03925763881932
-2025-04-11 12:20:29 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:29 - INFO - Validation R-squared for seed 42: 0.790895448598945
-2025-04-11 12:20:29 - INFO - Validation Mean Squared Error for seed 42: 52545.075345664336
-2025-04-11 12:20:29 - INFO - Validation Mean Absolute Error for seed 42: 125.5360248506763
-2025-04-11 12:20:29 - INFO - New best model found for seed 42 with Training R-squared: 0.8015957876446478 and Validation R-squared: 0.790895448598945
-2025-04-11 12:20:29 - INFO - ...DONE!
+2025-04-11 13:14:29 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR PREDICTING SIZE...
+2025-04-11 13:14:29 - INFO - ---> Loading dataset from Data/data_1.csv
+2025-04-11 13:14:29 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 42...
+2025-04-11 13:14:33 - INFO - Model training completed successfully for seed 42.
+2025-04-11 13:14:33 - INFO - Training R-squared: 0.8015957876446478, Validation R-squared: 0.7339806418615764
+2025-04-11 13:14:33 - INFO - Training Mean Squared Error: 231207.78438933514, Validation Mean Squared Error: 327931.2504252979
+2025-04-11 13:14:33 - INFO - Training Mean Absolute Error: 121.67284373590928, Validation Mean Absolute Error: 160.03925763881932
+2025-04-11 13:14:33 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:33 - INFO - Validation R-squared for seed 42: 0.790895448598945
+2025-04-11 13:14:33 - INFO - Validation Mean Squared Error for seed 42: 52545.075345664336
+2025-04-11 13:14:33 - INFO - Validation Mean Absolute Error for seed 42: 125.5360248506763
+2025-04-11 13:14:33 - INFO - New best model found for seed 42 with Training R-squared: 0.8015957876446478 and Validation R-squared: 0.790895448598945
+2025-04-11 13:14:33 - INFO - ...DONE!
 
 
-2025-04-11 12:20:29 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:29 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 279...
-2025-04-11 12:20:31 - INFO - Model training completed successfully for seed 279.
-2025-04-11 12:20:31 - INFO - Training R-squared: 0.9293172877133529, Validation R-squared: 0.7547685399468812
-2025-04-11 12:20:31 - INFO - Training Mean Squared Error: 84326.569367523, Validation Mean Squared Error: 275571.75496053195
-2025-04-11 12:20:31 - INFO - Training Mean Absolute Error: 83.7366261475452, Validation Mean Absolute Error: 152.7005276286322
-2025-04-11 12:20:31 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:31 - INFO - Validation R-squared for seed 279: 0.7473070419136305
-2025-04-11 12:20:31 - INFO - Validation Mean Squared Error for seed 279: 63498.237761935656
-2025-04-11 12:20:31 - INFO - Validation Mean Absolute Error for seed 279: 141.339882726132
-2025-04-11 12:20:31 - INFO - ...DONE!
+2025-04-11 13:14:33 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:33 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 279...
+2025-04-11 13:14:35 - INFO - Model training completed successfully for seed 279.
+2025-04-11 13:14:35 - INFO - Training R-squared: 0.9293172877133529, Validation R-squared: 0.7547685399468812
+2025-04-11 13:14:35 - INFO - Training Mean Squared Error: 84326.569367523, Validation Mean Squared Error: 275571.75496053195
+2025-04-11 13:14:35 - INFO - Training Mean Absolute Error: 83.7366261475452, Validation Mean Absolute Error: 152.7005276286322
+2025-04-11 13:14:35 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:35 - INFO - Validation R-squared for seed 279: 0.7473070419136305
+2025-04-11 13:14:35 - INFO - Validation Mean Squared Error for seed 279: 63498.237761935656
+2025-04-11 13:14:35 - INFO - Validation Mean Absolute Error for seed 279: 141.339882726132
+2025-04-11 13:14:35 - INFO - ...DONE!
 
 
-2025-04-11 12:20:31 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:31 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 897...
-2025-04-11 12:20:34 - INFO - Model training completed successfully for seed 897.
-2025-04-11 12:20:34 - INFO - Training R-squared: 0.8984045032975746, Validation R-squared: 0.00903444828689759
-2025-04-11 12:20:34 - INFO - Training Mean Squared Error: 135574.2430912896, Validation Mean Squared Error: 546108.268984679
-2025-04-11 12:20:34 - INFO - Training Mean Absolute Error: 95.99076707472966, Validation Mean Absolute Error: 156.6593402263304
-2025-04-11 12:20:34 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:34 - INFO - Validation R-squared for seed 897: -0.24357428117305036
-2025-04-11 12:20:34 - INFO - Validation Mean Squared Error for seed 897: 312492.97953750135
-2025-04-11 12:20:34 - INFO - Validation Mean Absolute Error for seed 897: 201.75871099211204
-2025-04-11 12:20:34 - INFO - ...DONE!
+2025-04-11 13:14:35 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:35 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 897...
+2025-04-11 13:14:38 - INFO - Model training completed successfully for seed 897.
+2025-04-11 13:14:38 - INFO - Training R-squared: 0.8984045032975746, Validation R-squared: 0.00903444828689759
+2025-04-11 13:14:38 - INFO - Training Mean Squared Error: 135574.2430912896, Validation Mean Squared Error: 546108.268984679
+2025-04-11 13:14:38 - INFO - Training Mean Absolute Error: 95.99076707472966, Validation Mean Absolute Error: 156.6593402263304
+2025-04-11 13:14:38 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:38 - INFO - Validation R-squared for seed 897: -0.24357428117305036
+2025-04-11 13:14:38 - INFO - Validation Mean Squared Error for seed 897: 312492.97953750135
+2025-04-11 13:14:38 - INFO - Validation Mean Absolute Error for seed 897: 201.75871099211204
+2025-04-11 13:14:38 - INFO - ...DONE!
 
 
-2025-04-11 12:20:34 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:34 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 103...
-2025-04-11 12:20:37 - INFO - Model training completed successfully for seed 103.
-2025-04-11 12:20:37 - INFO - Training R-squared: 0.8983088482509662, Validation R-squared: 0.5891910990688014
-2025-04-11 12:20:37 - INFO - Training Mean Squared Error: 85077.47243591001, Validation Mean Squared Error: 1032167.8749568603
-2025-04-11 12:20:37 - INFO - Training Mean Absolute Error: 73.26988368500498, Validation Mean Absolute Error: 259.51398681209497
-2025-04-11 12:20:37 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:37 - INFO - Validation R-squared for seed 103: 0.6418335886378008
-2025-04-11 12:20:37 - INFO - Validation Mean Squared Error for seed 103: 90002.2545908965
-2025-04-11 12:20:37 - INFO - Validation Mean Absolute Error for seed 103: 152.25792280872045
-2025-04-11 12:20:37 - INFO - ...DONE!
+2025-04-11 13:14:38 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:38 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 103...
+2025-04-11 13:14:41 - INFO - Model training completed successfully for seed 103.
+2025-04-11 13:14:41 - INFO - Training R-squared: 0.8983088482509662, Validation R-squared: 0.5891910990688014
+2025-04-11 13:14:41 - INFO - Training Mean Squared Error: 85077.47243591001, Validation Mean Squared Error: 1032167.8749568603
+2025-04-11 13:14:41 - INFO - Training Mean Absolute Error: 73.26988368500498, Validation Mean Absolute Error: 259.51398681209497
+2025-04-11 13:14:41 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:41 - INFO - Validation R-squared for seed 103: 0.6418335886378008
+2025-04-11 13:14:41 - INFO - Validation Mean Squared Error for seed 103: 90002.2545908965
+2025-04-11 13:14:41 - INFO - Validation Mean Absolute Error for seed 103: 152.25792280872045
+2025-04-11 13:14:41 - INFO - ...DONE!
 
 
-2025-04-11 12:20:37 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:37 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 432...
-2025-04-11 12:20:39 - INFO - Model training completed successfully for seed 432.
-2025-04-11 12:20:39 - INFO - Training R-squared: 0.892087367030748, Validation R-squared: 0.06009988670552335
-2025-04-11 12:20:39 - INFO - Training Mean Squared Error: 126253.57193965369, Validation Mean Squared Error: 1141998.6852031434
-2025-04-11 12:20:39 - INFO - Training Mean Absolute Error: 93.46483682183292, Validation Mean Absolute Error: 262.6497564860958
-2025-04-11 12:20:39 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:39 - INFO - Validation R-squared for seed 432: -1.2937023001740449
-2025-04-11 12:20:39 - INFO - Validation Mean Squared Error for seed 432: 576375.5947712992
-2025-04-11 12:20:39 - INFO - Validation Mean Absolute Error for seed 432: 259.4045589308032
-2025-04-11 12:20:39 - INFO - ...DONE!
+2025-04-11 13:14:41 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:41 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 432...
+2025-04-11 13:14:44 - INFO - Model training completed successfully for seed 432.
+2025-04-11 13:14:44 - INFO - Training R-squared: 0.892087367030748, Validation R-squared: 0.06009988670552335
+2025-04-11 13:14:44 - INFO - Training Mean Squared Error: 126253.57193965369, Validation Mean Squared Error: 1141998.6852031434
+2025-04-11 13:14:44 - INFO - Training Mean Absolute Error: 93.46483682183292, Validation Mean Absolute Error: 262.6497564860958
+2025-04-11 13:14:44 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:44 - INFO - Validation R-squared for seed 432: -1.2937023001740449
+2025-04-11 13:14:44 - INFO - Validation Mean Squared Error for seed 432: 576375.5947712992
+2025-04-11 13:14:44 - INFO - Validation Mean Absolute Error for seed 432: 259.4045589308032
+2025-04-11 13:14:44 - INFO - ...DONE!
 
 
-2025-04-11 12:20:39 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:39 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 780...
-2025-04-11 12:20:42 - INFO - Model training completed successfully for seed 780.
-2025-04-11 12:20:42 - INFO - Training R-squared: 0.8909727870673851, Validation R-squared: 0.6445612734256315
-2025-04-11 12:20:42 - INFO - Training Mean Squared Error: 147380.251099881, Validation Mean Squared Error: 171413.45815512218
-2025-04-11 12:20:42 - INFO - Training Mean Absolute Error: 105.97167283595961, Validation Mean Absolute Error: 88.1283857146917
-2025-04-11 12:20:42 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:42 - INFO - Validation R-squared for seed 780: -0.9698530831015924
-2025-04-11 12:20:42 - INFO - Validation Mean Squared Error for seed 780: 494996.77543097286
-2025-04-11 12:20:42 - INFO - Validation Mean Absolute Error for seed 780: 261.31704882774324
-2025-04-11 12:20:42 - INFO - ...DONE!
+2025-04-11 13:14:44 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:44 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 780...
+2025-04-11 13:14:47 - INFO - Model training completed successfully for seed 780.
+2025-04-11 13:14:47 - INFO - Training R-squared: 0.8909727870673851, Validation R-squared: 0.6445612734256315
+2025-04-11 13:14:47 - INFO - Training Mean Squared Error: 147380.251099881, Validation Mean Squared Error: 171413.45815512218
+2025-04-11 13:14:47 - INFO - Training Mean Absolute Error: 105.97167283595961, Validation Mean Absolute Error: 88.1283857146917
+2025-04-11 13:14:47 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:47 - INFO - Validation R-squared for seed 780: -0.9698530831015924
+2025-04-11 13:14:47 - INFO - Validation Mean Squared Error for seed 780: 494996.77543097286
+2025-04-11 13:14:47 - INFO - Validation Mean Absolute Error for seed 780: 261.31704882774324
+2025-04-11 13:14:47 - INFO - ...DONE!
 
 
-2025-04-11 12:20:42 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:42 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 562...
-2025-04-11 12:20:44 - INFO - Model training completed successfully for seed 562.
-2025-04-11 12:20:44 - INFO - Training R-squared: 0.8690404614312541, Validation R-squared: 0.9245971855708391
-2025-04-11 12:20:44 - INFO - Training Mean Squared Error: 180748.5041988181, Validation Mean Squared Error: 26927.747470376402
-2025-04-11 12:20:44 - INFO - Training Mean Absolute Error: 121.50749931103319, Validation Mean Absolute Error: 52.999277855183266
-2025-04-11 12:20:44 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:44 - INFO - Validation R-squared for seed 562: -0.16751179708984987
-2025-04-11 12:20:44 - INFO - Validation Mean Squared Error for seed 562: 293379.53159793635
-2025-04-11 12:20:44 - INFO - Validation Mean Absolute Error for seed 562: 217.93299273704847
-2025-04-11 12:20:44 - INFO - ...DONE!
+2025-04-11 13:14:47 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:47 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 562...
+2025-04-11 13:14:50 - INFO - Model training completed successfully for seed 562.
+2025-04-11 13:14:50 - INFO - Training R-squared: 0.8690404614312541, Validation R-squared: 0.9245971855708391
+2025-04-11 13:14:50 - INFO - Training Mean Squared Error: 180748.5041988181, Validation Mean Squared Error: 26927.747470376402
+2025-04-11 13:14:50 - INFO - Training Mean Absolute Error: 121.50749931103319, Validation Mean Absolute Error: 52.999277855183266
+2025-04-11 13:14:50 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:50 - INFO - Validation R-squared for seed 562: -0.16751179708984987
+2025-04-11 13:14:50 - INFO - Validation Mean Squared Error for seed 562: 293379.53159793635
+2025-04-11 13:14:50 - INFO - Validation Mean Absolute Error for seed 562: 217.93299273704847
+2025-04-11 13:14:50 - INFO - ...DONE!
 
 
-2025-04-11 12:20:44 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:44 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 951...
-2025-04-11 12:20:47 - INFO - Model training completed successfully for seed 951.
-2025-04-11 12:20:47 - INFO - Training R-squared: 0.931952362016938, Validation R-squared: 0.6332157972424979
-2025-04-11 12:20:47 - INFO - Training Mean Squared Error: 65080.00878048271, Validation Mean Squared Error: 754684.9736237575
-2025-04-11 12:20:47 - INFO - Training Mean Absolute Error: 71.86256675742375, Validation Mean Absolute Error: 211.28544221110482
-2025-04-11 12:20:47 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:47 - INFO - Validation R-squared for seed 951: 0.7229155718982787
-2025-04-11 12:20:47 - INFO - Validation Mean Squared Error for seed 951: 69627.47608391749
-2025-04-11 12:20:47 - INFO - Validation Mean Absolute Error for seed 951: 149.58927749681826
-2025-04-11 12:20:47 - INFO - ...DONE!
+2025-04-11 13:14:50 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:50 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 951...
+2025-04-11 13:14:53 - INFO - Model training completed successfully for seed 951.
+2025-04-11 13:14:53 - INFO - Training R-squared: 0.931952362016938, Validation R-squared: 0.6332157972424979
+2025-04-11 13:14:53 - INFO - Training Mean Squared Error: 65080.00878048271, Validation Mean Squared Error: 754684.9736237575
+2025-04-11 13:14:53 - INFO - Training Mean Absolute Error: 71.86256675742375, Validation Mean Absolute Error: 211.28544221110482
+2025-04-11 13:14:53 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:53 - INFO - Validation R-squared for seed 951: 0.7229155718982787
+2025-04-11 13:14:53 - INFO - Validation Mean Squared Error for seed 951: 69627.47608391749
+2025-04-11 13:14:53 - INFO - Validation Mean Absolute Error for seed 951: 149.58927749681826
+2025-04-11 13:14:53 - INFO - ...DONE!
 
 
-2025-04-11 12:20:47 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:47 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 233...
-2025-04-11 12:20:50 - INFO - Model training completed successfully for seed 233.
-2025-04-11 12:20:50 - INFO - Training R-squared: 0.9099442855321398, Validation R-squared: 0.5712577935445813
-2025-04-11 12:20:50 - INFO - Training Mean Squared Error: 87270.68255719947, Validation Mean Squared Error: 853943.750172376
-2025-04-11 12:20:50 - INFO - Training Mean Absolute Error: 77.77012710559174, Validation Mean Absolute Error: 244.08225812785508
-2025-04-11 12:20:50 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:50 - INFO - Validation R-squared for seed 233: -0.3278425268834049
-2025-04-11 12:20:50 - INFO - Validation Mean Squared Error for seed 233: 333668.4216329966
-2025-04-11 12:20:50 - INFO - Validation Mean Absolute Error for seed 233: 203.04272090395364
-2025-04-11 12:20:50 - INFO - ...DONE!
+2025-04-11 13:14:53 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:53 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 233...
+2025-04-11 13:14:56 - INFO - Model training completed successfully for seed 233.
+2025-04-11 13:14:56 - INFO - Training R-squared: 0.9099442855321398, Validation R-squared: 0.5712577935445813
+2025-04-11 13:14:56 - INFO - Training Mean Squared Error: 87270.68255719947, Validation Mean Squared Error: 853943.750172376
+2025-04-11 13:14:56 - INFO - Training Mean Absolute Error: 77.77012710559174, Validation Mean Absolute Error: 244.08225812785508
+2025-04-11 13:14:56 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:56 - INFO - Validation R-squared for seed 233: -0.3278425268834049
+2025-04-11 13:14:56 - INFO - Validation Mean Squared Error for seed 233: 333668.4216329966
+2025-04-11 13:14:56 - INFO - Validation Mean Absolute Error for seed 233: 203.04272090395364
+2025-04-11 13:14:56 - INFO - ...DONE!
 
 
-2025-04-11 12:20:50 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:50 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 682...
-2025-04-11 12:20:52 - INFO - Model training completed successfully for seed 682.
-2025-04-11 12:20:52 - INFO - Training R-squared: 0.9322348095886501, Validation R-squared: 0.5469245262193245
-2025-04-11 12:20:52 - INFO - Training Mean Squared Error: 79673.16857156798, Validation Mean Squared Error: 537791.9148266321
-2025-04-11 12:20:52 - INFO - Training Mean Absolute Error: 79.00054731460972, Validation Mean Absolute Error: 178.15581355523534
-2025-04-11 12:20:52 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:20:52 - INFO - Validation R-squared for seed 682: -1.0099928822347715
-2025-04-11 12:20:52 - INFO - Validation Mean Squared Error for seed 682: 505083.350570925
-2025-04-11 12:20:52 - INFO - Validation Mean Absolute Error for seed 682: 241.74161611041538
-2025-04-11 12:20:52 - INFO - ...DONE!
+2025-04-11 13:14:56 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:56 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 682...
+2025-04-11 13:14:59 - INFO - Model training completed successfully for seed 682.
+2025-04-11 13:14:59 - INFO - Training R-squared: 0.9322348095886501, Validation R-squared: 0.5469245262193245
+2025-04-11 13:14:59 - INFO - Training Mean Squared Error: 79673.16857156798, Validation Mean Squared Error: 537791.9148266321
+2025-04-11 13:14:59 - INFO - Training Mean Absolute Error: 79.00054731460972, Validation Mean Absolute Error: 178.15581355523534
+2025-04-11 13:14:59 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:59 - INFO - Validation R-squared for seed 682: -1.0099928822347715
+2025-04-11 13:14:59 - INFO - Validation Mean Squared Error for seed 682: 505083.350570925
+2025-04-11 13:14:59 - INFO - Validation Mean Absolute Error for seed 682: 241.74161611041538
+2025-04-11 13:14:59 - INFO - ...DONE!
 
 
-2025-04-11 12:20:52 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
-2025-04-11 12:20:52 - INFO - Training complete for all seeds.
-2025-04-11 12:20:52 - INFO - Best model is from seed 42 with Training R-squared: 0.8015957876446478 and Validation R-squared: 0.790895448598945
-2025-04-11 12:21:09 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR PREDICTING SIZE...
-2025-04-11 12:21:09 - INFO - ---> Loading dataset from Data/data_2.csv
-2025-04-11 12:21:09 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 42...
-2025-04-11 12:21:13 - INFO - Model training completed successfully for seed 42.
-2025-04-11 12:21:13 - INFO - Training R-squared: 0.8965491582219511, Validation R-squared: 0.5921442334739686
-2025-04-11 12:21:13 - INFO - Training Mean Squared Error: 120091.69696422142, Validation Mean Squared Error: 230590.37496182503
-2025-04-11 12:21:13 - INFO - Training Mean Absolute Error: 88.22883503033988, Validation Mean Absolute Error: 96.76489231016603
-2025-04-11 12:21:13 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:13 - INFO - Validation R-squared for seed 42: 0.9077913178708712
-2025-04-11 12:21:13 - INFO - Validation Mean Squared Error for seed 42: 23170.76370426168
-2025-04-11 12:21:13 - INFO - Validation Mean Absolute Error for seed 42: 83.02478186143726
-2025-04-11 12:21:13 - INFO - New best model found for seed 42 with Training R-squared: 0.8965491582219511 and Validation R-squared: 0.9077913178708712
-2025-04-11 12:21:13 - INFO - ...DONE!
+2025-04-11 13:14:59 - INFO - Best model saved to _Models/best_random_forest_model_data_1_size.pkl
+2025-04-11 13:14:59 - INFO - Training complete for all seeds.
+2025-04-11 13:14:59 - INFO - Best model is from seed 42 with Training R-squared: 0.8015957876446478 and Validation R-squared: 0.790895448598945
+2025-04-11 13:15:05 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR PREDICTING SIZE...
+2025-04-11 13:15:05 - INFO - ---> Loading dataset from Data/data_2.csv
+2025-04-11 13:15:05 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 42...
+2025-04-11 13:15:10 - INFO - Model training completed successfully for seed 42.
+2025-04-11 13:15:10 - INFO - Training R-squared: 0.9459300876339718, Validation R-squared: 0.8651704294862673
+2025-04-11 13:15:10 - INFO - Training Mean Squared Error: 69952.51406509615, Validation Mean Squared Error: 115722.32816249559
+2025-04-11 13:15:10 - INFO - Training Mean Absolute Error: 72.31319975857372, Validation Mean Absolute Error: 89.90573030409465
+2025-04-11 13:15:10 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:10 - INFO - Validation R-squared for seed 42: -0.22357984109610096
+2025-04-11 13:15:10 - INFO - Validation Mean Squared Error for seed 42: 307468.65389131947
+2025-04-11 13:15:10 - INFO - Validation Mean Absolute Error for seed 42: 208.0297074510106
+2025-04-11 13:15:10 - INFO - New best model found for seed 42 with Training R-squared: 0.9459300876339718 and Validation R-squared: -0.22357984109610096
+2025-04-11 13:15:10 - INFO - ...DONE!
 
 
-2025-04-11 12:21:13 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:13 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 279...
-2025-04-11 12:21:16 - INFO - Model training completed successfully for seed 279.
-2025-04-11 12:21:16 - INFO - Training R-squared: 0.883755617807179, Validation R-squared: 0.5828526544115139
-2025-04-11 12:21:16 - INFO - Training Mean Squared Error: 122742.10705014187, Validation Mean Squared Error: 414185.8923031504
-2025-04-11 12:21:16 - INFO - Training Mean Absolute Error: 91.00265434278413, Validation Mean Absolute Error: 228.95771830231368
-2025-04-11 12:21:16 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:16 - INFO - Validation R-squared for seed 279: 0.5826163165059505
-2025-04-11 12:21:16 - INFO - Validation Mean Squared Error for seed 279: 104882.7342604418
-2025-04-11 12:21:16 - INFO - Validation Mean Absolute Error for seed 279: 160.88301357812966
-2025-04-11 12:21:16 - INFO - ...DONE!
+2025-04-11 13:15:10 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:10 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 279...
+2025-04-11 13:15:13 - INFO - Model training completed successfully for seed 279.
+2025-04-11 13:15:13 - INFO - Training R-squared: 0.943084119255333, Validation R-squared: 0.6689638780278405
+2025-04-11 13:15:13 - INFO - Training Mean Squared Error: 59535.96066934521, Validation Mean Squared Error: 605912.2137031651
+2025-04-11 13:15:13 - INFO - Training Mean Absolute Error: 60.80130495525293, Validation Mean Absolute Error: 225.81890367314062
+2025-04-11 13:15:13 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:13 - INFO - Validation R-squared for seed 279: -1.302957069445554
+2025-04-11 13:15:13 - INFO - Validation Mean Squared Error for seed 279: 578701.1900078441
+2025-04-11 13:15:13 - INFO - Validation Mean Absolute Error for seed 279: 309.45947188916256
+2025-04-11 13:15:13 - INFO - ...DONE!
 
 
-2025-04-11 12:21:16 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:16 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 897...
-2025-04-11 12:21:19 - INFO - Model training completed successfully for seed 897.
-2025-04-11 12:21:19 - INFO - Training R-squared: 0.9453210003525209, Validation R-squared: 0.4337091011319625
-2025-04-11 12:21:19 - INFO - Training Mean Squared Error: 62728.37110546811, Validation Mean Squared Error: 353752.74766976986
-2025-04-11 12:21:19 - INFO - Training Mean Absolute Error: 71.467386139161, Validation Mean Absolute Error: 96.69803635699387
-2025-04-11 12:21:19 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:19 - INFO - Validation R-squared for seed 897: -0.6599561801887595
-2025-04-11 12:21:19 - INFO - Validation Mean Squared Error for seed 897: 417123.9792443822
-2025-04-11 12:21:19 - INFO - Validation Mean Absolute Error for seed 897: 236.81889576876088
-2025-04-11 12:21:19 - INFO - ...DONE!
+2025-04-11 13:15:13 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:13 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 897...
+2025-04-11 13:15:16 - INFO - Model training completed successfully for seed 897.
+2025-04-11 13:15:16 - INFO - Training R-squared: 0.943387548091724, Validation R-squared: 0.6868670588060979
+2025-04-11 13:15:16 - INFO - Training Mean Squared Error: 69773.59620771458, Validation Mean Squared Error: 345863.69442927797
+2025-04-11 13:15:16 - INFO - Training Mean Absolute Error: 73.01793879452694, Validation Mean Absolute Error: 111.58737465595183
+2025-04-11 13:15:16 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:16 - INFO - Validation R-squared for seed 897: -0.42423221879807516
+2025-04-11 13:15:16 - INFO - Validation Mean Squared Error for seed 897: 357889.81514292356
+2025-04-11 13:15:16 - INFO - Validation Mean Absolute Error for seed 897: 211.126074482135
+2025-04-11 13:15:16 - INFO - ...DONE!
 
 
-2025-04-11 12:21:19 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:19 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 103...
-2025-04-11 12:21:22 - INFO - Model training completed successfully for seed 103.
-2025-04-11 12:21:22 - INFO - Training R-squared: 0.9383703452289621, Validation R-squared: 0.5538116469625758
-2025-04-11 12:21:22 - INFO - Training Mean Squared Error: 48269.239000222326, Validation Mean Squared Error: 909401.3336225672
-2025-04-11 12:21:22 - INFO - Training Mean Absolute Error: 55.82314226443774, Validation Mean Absolute Error: 240.89452075278552
-2025-04-11 12:21:22 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:22 - INFO - Validation R-squared for seed 103: 0.5550110553623555
-2025-04-11 12:21:22 - INFO - Validation Mean Squared Error for seed 103: 111819.55374623525
-2025-04-11 12:21:22 - INFO - Validation Mean Absolute Error for seed 103: 135.065725269985
-2025-04-11 12:21:22 - INFO - ...DONE!
+2025-04-11 13:15:16 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:16 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 103...
+2025-04-11 13:15:19 - INFO - Model training completed successfully for seed 103.
+2025-04-11 13:15:19 - INFO - Training R-squared: 0.9509421430676341, Validation R-squared: 0.6933054737361106
+2025-04-11 13:15:19 - INFO - Training Mean Squared Error: 54815.69962781519, Validation Mean Squared Error: 479394.0281831327
+2025-04-11 13:15:19 - INFO - Training Mean Absolute Error: 62.91179485924728, Validation Mean Absolute Error: 156.57219255614038
+2025-04-11 13:15:19 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:19 - INFO - Validation R-squared for seed 103: -0.6278773462804188
+2025-04-11 13:15:19 - INFO - Validation Mean Squared Error for seed 103: 409063.0129314973
+2025-04-11 13:15:19 - INFO - Validation Mean Absolute Error for seed 103: 241.6497915961369
+2025-04-11 13:15:19 - INFO - ...DONE!
 
 
-2025-04-11 12:21:22 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:22 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 432...
-2025-04-11 12:21:24 - INFO - Model training completed successfully for seed 432.
-2025-04-11 12:21:24 - INFO - Training R-squared: 0.8910891943129616, Validation R-squared: 0.6483497841593229
-2025-04-11 12:21:24 - INFO - Training Mean Squared Error: 107339.83971328376, Validation Mean Squared Error: 447490.03172620037
-2025-04-11 12:21:24 - INFO - Training Mean Absolute Error: 85.21108642740037, Validation Mean Absolute Error: 174.9125194362083
-2025-04-11 12:21:24 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:24 - INFO - Validation R-squared for seed 432: 0.7233031641240075
-2025-04-11 12:21:24 - INFO - Validation Mean Squared Error for seed 432: 69530.07953005076
-2025-04-11 12:21:24 - INFO - Validation Mean Absolute Error for seed 432: 133.40126517561092
-2025-04-11 12:21:24 - INFO - ...DONE!
+2025-04-11 13:15:19 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:19 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 432...
+2025-04-11 13:15:22 - INFO - Model training completed successfully for seed 432.
+2025-04-11 13:15:22 - INFO - Training R-squared: 0.9240305903882733, Validation R-squared: 0.8186537364420154
+2025-04-11 13:15:22 - INFO - Training Mean Squared Error: 94766.42945638204, Validation Mean Squared Error: 189611.04873523218
+2025-04-11 13:15:22 - INFO - Training Mean Absolute Error: 85.3845879387805, Validation Mean Absolute Error: 171.96091377360585
+2025-04-11 13:15:22 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:22 - INFO - Validation R-squared for seed 432: -0.5604918434824842
+2025-04-11 13:15:22 - INFO - Validation Mean Squared Error for seed 432: 392129.9701163179
+2025-04-11 13:15:22 - INFO - Validation Mean Absolute Error for seed 432: 271.24853110381514
+2025-04-11 13:15:22 - INFO - ...DONE!
 
 
-2025-04-11 12:21:24 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:24 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 780...
-2025-04-11 12:21:27 - INFO - Model training completed successfully for seed 780.
-2025-04-11 12:21:27 - INFO - Training R-squared: 0.9065960914889968, Validation R-squared: 0.6580551052497051
-2025-04-11 12:21:27 - INFO - Training Mean Squared Error: 79522.7641504607, Validation Mean Squared Error: 610937.4413457734
-2025-04-11 12:21:27 - INFO - Training Mean Absolute Error: 66.69578268090766, Validation Mean Absolute Error: 195.21246806789688
-2025-04-11 12:21:27 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:27 - INFO - Validation R-squared for seed 780: 0.8858471047497837
-2025-04-11 12:21:27 - INFO - Validation Mean Squared Error for seed 780: 28685.040290414643
-2025-04-11 12:21:27 - INFO - Validation Mean Absolute Error for seed 780: 90.39441137230386
-2025-04-11 12:21:27 - INFO - ...DONE!
+2025-04-11 13:15:22 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:22 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 780...
+2025-04-11 13:15:25 - INFO - Model training completed successfully for seed 780.
+2025-04-11 13:15:25 - INFO - Training R-squared: 0.9361511768340529, Validation R-squared: 0.6954068275754053
+2025-04-11 13:15:25 - INFO - Training Mean Squared Error: 71374.77589139072, Validation Mean Squared Error: 475092.2691552162
+2025-04-11 13:15:25 - INFO - Training Mean Absolute Error: 70.37695388848525, Validation Mean Absolute Error: 185.43220823978945
+2025-04-11 13:15:25 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:25 - INFO - Validation R-squared for seed 780: 0.7524885158658936
+2025-04-11 13:15:25 - INFO - Validation Mean Squared Error for seed 780: 62196.205178718104
+2025-04-11 13:15:25 - INFO - Validation Mean Absolute Error for seed 780: 120.49740379360829
+2025-04-11 13:15:25 - INFO - ...DONE!
 
 
-2025-04-11 12:21:27 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:27 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 562...
-2025-04-11 12:21:31 - INFO - Model training completed successfully for seed 562.
-2025-04-11 12:21:31 - INFO - Training R-squared: 0.8902629795365548, Validation R-squared: 0.7648896474237318
-2025-04-11 12:21:31 - INFO - Training Mean Squared Error: 141852.25895548658, Validation Mean Squared Error: 1303.600933048565
-2025-04-11 12:21:31 - INFO - Training Mean Absolute Error: 103.13848513440848, Validation Mean Absolute Error: 19.648107476431733
-2025-04-11 12:21:31 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:31 - INFO - Validation R-squared for seed 562: -0.4343228993025243
-2025-04-11 12:21:31 - INFO - Validation Mean Squared Error for seed 562: 360425.46328564803
-2025-04-11 12:21:31 - INFO - Validation Mean Absolute Error for seed 562: 244.29732546533765
-2025-04-11 12:21:31 - INFO - ...DONE!
+2025-04-11 13:15:25 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:25 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 562...
+2025-04-11 13:15:28 - INFO - Model training completed successfully for seed 562.
+2025-04-11 13:15:28 - INFO - Training R-squared: 0.9399057746678567, Validation R-squared: 0.9092794758790061
+2025-04-11 13:15:28 - INFO - Training Mean Squared Error: 83011.35972829994, Validation Mean Squared Error: 45103.23354278216
+2025-04-11 13:15:28 - INFO - Training Mean Absolute Error: 78.06872114217894, Validation Mean Absolute Error: 68.92516752595002
+2025-04-11 13:15:28 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:28 - INFO - Validation R-squared for seed 562: -0.1895314737143856
+2025-04-11 13:15:28 - INFO - Validation Mean Squared Error for seed 562: 298912.77111649787
+2025-04-11 13:15:28 - INFO - Validation Mean Absolute Error for seed 562: 235.3308920638635
+2025-04-11 13:15:28 - INFO - ...DONE!
 
 
-2025-04-11 12:21:31 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:31 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 951...
-2025-04-11 12:21:34 - INFO - Model training completed successfully for seed 951.
-2025-04-11 12:21:34 - INFO - Training R-squared: 0.898977468207075, Validation R-squared: 0.7165004609068546
-2025-04-11 12:21:34 - INFO - Training Mean Squared Error: 88310.83986650457, Validation Mean Squared Error: 485073.2770625296
-2025-04-11 12:21:34 - INFO - Training Mean Absolute Error: 79.57977894888542, Validation Mean Absolute Error: 151.17957296404208
-2025-04-11 12:21:34 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:34 - INFO - Validation R-squared for seed 951: 0.1449424569909119
-2025-04-11 12:21:34 - INFO - Validation Mean Squared Error for seed 951: 214864.10851057386
-2025-04-11 12:21:34 - INFO - Validation Mean Absolute Error for seed 951: 196.2041725466756
-2025-04-11 12:21:34 - INFO - ...DONE!
+2025-04-11 13:15:28 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:28 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 951...
+2025-04-11 13:15:31 - INFO - Model training completed successfully for seed 951.
+2025-04-11 13:15:31 - INFO - Training R-squared: 0.9546072372594725, Validation R-squared: 0.5251521191871861
+2025-04-11 13:15:31 - INFO - Training Mean Squared Error: 42535.63886172208, Validation Mean Squared Error: 1080969.1628404886
+2025-04-11 13:15:31 - INFO - Training Mean Absolute Error: 59.00212743048838, Validation Mean Absolute Error: 221.02518809541624
+2025-04-11 13:15:31 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:31 - INFO - Validation R-squared for seed 951: 0.9332708433904631
+2025-04-11 13:15:31 - INFO - Validation Mean Squared Error for seed 951: 16768.112115722535
+2025-04-11 13:15:31 - INFO - Validation Mean Absolute Error for seed 951: 74.44285557426441
+2025-04-11 13:15:31 - INFO - New best model found for seed 951 with Training R-squared: 0.9546072372594725 and Validation R-squared: 0.9332708433904631
+2025-04-11 13:15:31 - INFO - ...DONE!
 
 
-2025-04-11 12:21:34 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:34 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 233...
-2025-04-11 12:21:37 - INFO - Model training completed successfully for seed 233.
-2025-04-11 12:21:37 - INFO - Training R-squared: 0.85363254807398, Validation R-squared: 0.6845842547648006
-2025-04-11 12:21:37 - INFO - Training Mean Squared Error: 114606.15215030691, Validation Mean Squared Error: 639497.6368415938
-2025-04-11 12:21:37 - INFO - Training Mean Absolute Error: 80.43636184024014, Validation Mean Absolute Error: 243.58780028724019
-2025-04-11 12:21:37 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:37 - INFO - Validation R-squared for seed 233: 0.8421473401520315
-2025-04-11 12:21:37 - INFO - Validation Mean Squared Error for seed 233: 39666.18540653715
-2025-04-11 12:21:37 - INFO - Validation Mean Absolute Error for seed 233: 107.35067321221636
-2025-04-11 12:21:37 - INFO - ...DONE!
+2025-04-11 13:15:31 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:31 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 233...
+2025-04-11 13:15:35 - INFO - Model training completed successfully for seed 233.
+2025-04-11 13:15:35 - INFO - Training R-squared: 0.9487650357339981, Validation R-squared: 0.6269758579887769
+2025-04-11 13:15:35 - INFO - Training Mean Squared Error: 42440.614082116976, Validation Mean Squared Error: 994247.6719474245
+2025-04-11 13:15:35 - INFO - Training Mean Absolute Error: 61.01541825612496, Validation Mean Absolute Error: 267.3271011484849
+2025-04-11 13:15:35 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:35 - INFO - Validation R-squared for seed 233: 0.7307038486813681
+2025-04-11 13:15:35 - INFO - Validation Mean Squared Error for seed 233: 67670.390082497
+2025-04-11 13:15:35 - INFO - Validation Mean Absolute Error for seed 233: 112.92624648241684
+2025-04-11 13:15:35 - INFO - ...DONE!
 
 
-2025-04-11 12:21:37 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:37 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 682...
-2025-04-11 12:21:40 - INFO - Model training completed successfully for seed 682.
-2025-04-11 12:21:40 - INFO - Training R-squared: 0.9472852077888789, Validation R-squared: 0.55317236920366
-2025-04-11 12:21:40 - INFO - Training Mean Squared Error: 51949.88096556018, Validation Mean Squared Error: 569019.1558008791
-2025-04-11 12:21:40 - INFO - Training Mean Absolute Error: 56.83115195622299, Validation Mean Absolute Error: 212.20370877514245
-2025-04-11 12:21:40 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:21:40 - INFO - Validation R-squared for seed 682: 0.48496380761030433
-2025-04-11 12:21:40 - INFO - Validation Mean Squared Error for seed 682: 129421.45617364159
-2025-04-11 12:21:40 - INFO - Validation Mean Absolute Error for seed 682: 184.39453056947818
-2025-04-11 12:21:40 - INFO - ...DONE!
+2025-04-11 13:15:35 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:35 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 682...
+2025-04-11 13:15:38 - INFO - Model training completed successfully for seed 682.
+2025-04-11 13:15:38 - INFO - Training R-squared: 0.9004501977549264, Validation R-squared: -0.2290242122897379
+2025-04-11 13:15:38 - INFO - Training Mean Squared Error: 143207.69673057346, Validation Mean Squared Error: 317955.53694660356
+2025-04-11 13:15:38 - INFO - Training Mean Absolute Error: 109.4063428277474, Validation Mean Absolute Error: 162.94375707181584
+2025-04-11 13:15:38 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:15:38 - INFO - Validation R-squared for seed 682: 0.7771910108366424
+2025-04-11 13:15:38 - INFO - Validation Mean Squared Error for seed 682: 55988.81059659643
+2025-04-11 13:15:38 - INFO - Validation Mean Absolute Error for seed 682: 116.17712875161271
+2025-04-11 13:15:38 - INFO - ...DONE!
 
 
-2025-04-11 12:21:40 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
-2025-04-11 12:21:40 - INFO - Training complete for all seeds.
-2025-04-11 12:21:40 - INFO - Best model is from seed 42 with Training R-squared: 0.8965491582219511 and Validation R-squared: 0.9077913178708712
-2025-04-11 12:22:11 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR PREDICTING SIZE...
-2025-04-11 12:22:11 - INFO - ---> Loading dataset from Data/data_3.csv
-2025-04-11 12:22:11 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 42...
-2025-04-11 12:22:15 - INFO - Model training completed successfully for seed 42.
-2025-04-11 12:22:15 - INFO - Training R-squared: 0.9489351611226531, Validation R-squared: 0.7763246744190812
-2025-04-11 12:22:15 - INFO - Training Mean Squared Error: 62675.96169788099, Validation Mean Squared Error: 215831.869220722
-2025-04-11 12:22:15 - INFO - Training Mean Absolute Error: 69.44272457474862, Validation Mean Absolute Error: 160.35843571648405
-2025-04-11 12:22:15 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:15 - INFO - Validation R-squared for seed 42: -0.17093655074318082
-2025-04-11 12:22:15 - INFO - Validation Mean Squared Error for seed 42: 294240.1247201275
-2025-04-11 12:22:15 - INFO - Validation Mean Absolute Error for seed 42: 239.030653386312
-2025-04-11 12:22:15 - INFO - New best model found for seed 42 with Training R-squared: 0.9489351611226531 and Validation R-squared: -0.17093655074318082
-2025-04-11 12:22:15 - INFO - ...DONE!
+2025-04-11 13:15:38 - INFO - Best model saved to _Models/best_random_forest_model_data_2_size.pkl
+2025-04-11 13:15:38 - INFO - Training complete for all seeds.
+2025-04-11 13:15:38 - INFO - Best model is from seed 951 with Training R-squared: 0.9546072372594725 and Validation R-squared: 0.9332708433904631
+2025-04-11 13:16:04 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR PREDICTING SIZE...
+2025-04-11 13:16:04 - INFO - ---> Loading dataset from Data/data_3.csv
+2025-04-11 13:16:04 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 42...
+2025-04-11 13:16:08 - INFO - Model training completed successfully for seed 42.
+2025-04-11 13:16:08 - INFO - Training R-squared: 0.9507187287479377, Validation R-squared: 0.8278894957290922
+2025-04-11 13:16:08 - INFO - Training Mean Squared Error: 63425.45034272199, Validation Mean Squared Error: 226218.05955718402
+2025-04-11 13:16:08 - INFO - Training Mean Absolute Error: 72.64417206827073, Validation Mean Absolute Error: 194.16271673079956
+2025-04-11 13:16:08 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:08 - INFO - Validation R-squared for seed 42: 0.047138321807564165
+2025-04-11 13:16:08 - INFO - Validation Mean Squared Error for seed 42: 239440.93200816424
+2025-04-11 13:16:08 - INFO - Validation Mean Absolute Error for seed 42: 215.9103309661331
+2025-04-11 13:16:08 - INFO - New best model found for seed 42 with Training R-squared: 0.9507187287479377 and Validation R-squared: 0.047138321807564165
+2025-04-11 13:16:08 - INFO - ...DONE!
 
 
-2025-04-11 12:22:15 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:15 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 279...
-2025-04-11 12:22:18 - INFO - Model training completed successfully for seed 279.
-2025-04-11 12:22:18 - INFO - Training R-squared: 0.9729151118431388, Validation R-squared: 0.598772869263126
-2025-04-11 12:22:18 - INFO - Training Mean Squared Error: 24555.64106710919, Validation Mean Squared Error: 889391.9447235635
-2025-04-11 12:22:18 - INFO - Training Mean Absolute Error: 40.41924252712023, Validation Mean Absolute Error: 302.80734191212997
-2025-04-11 12:22:18 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:18 - INFO - Validation R-squared for seed 279: -1.059742176285856
-2025-04-11 12:22:18 - INFO - Validation Mean Squared Error for seed 279: 517584.65858547
-2025-04-11 12:22:18 - INFO - Validation Mean Absolute Error for seed 279: 311.9615923985262
-2025-04-11 12:22:18 - INFO - ...DONE!
+2025-04-11 13:16:08 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:08 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 279...
+2025-04-11 13:16:11 - INFO - Model training completed successfully for seed 279.
+2025-04-11 13:16:11 - INFO - Training R-squared: 0.9367303454390512, Validation R-squared: 0.7476093262821824
+2025-04-11 13:16:11 - INFO - Training Mean Squared Error: 71265.72123439577, Validation Mean Squared Error: 486145.85660935356
+2025-04-11 13:16:11 - INFO - Training Mean Absolute Error: 71.58083805662191, Validation Mean Absolute Error: 272.00823511167954
+2025-04-11 13:16:11 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:11 - INFO - Validation R-squared for seed 279: -1.008530762977577
+2025-04-11 13:16:11 - INFO - Validation Mean Squared Error for seed 279: 504715.9402681895
+2025-04-11 13:16:11 - INFO - Validation Mean Absolute Error for seed 279: 309.1575234481118
+2025-04-11 13:16:11 - INFO - ...DONE!
 
 
-2025-04-11 12:22:18 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:18 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 897...
-2025-04-11 12:22:21 - INFO - Model training completed successfully for seed 897.
-2025-04-11 12:22:21 - INFO - Training R-squared: 0.9596010296376478, Validation R-squared: 0.2500899727202873
-2025-04-11 12:22:21 - INFO - Training Mean Squared Error: 57873.36400630607, Validation Mean Squared Error: 74450.08537707568
-2025-04-11 12:22:21 - INFO - Training Mean Absolute Error: 69.17670370253279, Validation Mean Absolute Error: 66.8528082911399
-2025-04-11 12:22:21 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:21 - INFO - Validation R-squared for seed 897: -0.19306449922020974
-2025-04-11 12:22:21 - INFO - Validation Mean Squared Error for seed 897: 299800.57145445235
-2025-04-11 12:22:21 - INFO - Validation Mean Absolute Error for seed 897: 262.10421699326497
-2025-04-11 12:22:21 - INFO - ...DONE!
+2025-04-11 13:16:11 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:11 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 897...
+2025-04-11 13:16:14 - INFO - Model training completed successfully for seed 897.
+2025-04-11 13:16:14 - INFO - Training R-squared: 0.9525718312150269, Validation R-squared: 0.7074239368259194
+2025-04-11 13:16:14 - INFO - Training Mean Squared Error: 69561.83417819568, Validation Mean Squared Error: 175342.55104804717
+2025-04-11 13:16:14 - INFO - Training Mean Absolute Error: 62.48125960837266, Validation Mean Absolute Error: 104.96390728519944
+2025-04-11 13:16:14 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:14 - INFO - Validation R-squared for seed 897: -2.3390851446380077
+2025-04-11 13:16:14 - INFO - Validation Mean Squared Error for seed 897: 839065.8134173322
+2025-04-11 13:16:14 - INFO - Validation Mean Absolute Error for seed 897: 332.2056168244263
+2025-04-11 13:16:14 - INFO - ...DONE!
 
 
-2025-04-11 12:22:22 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:22 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 103...
-2025-04-11 12:22:25 - INFO - Model training completed successfully for seed 103.
-2025-04-11 12:22:25 - INFO - Training R-squared: 0.9697231205315058, Validation R-squared: 0.704839732355121
-2025-04-11 12:22:25 - INFO - Training Mean Squared Error: 26943.74070458989, Validation Mean Squared Error: 675320.6362899715
-2025-04-11 12:22:25 - INFO - Training Mean Absolute Error: 46.08421077353359, Validation Mean Absolute Error: 188.62924813081767
-2025-04-11 12:22:25 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:25 - INFO - Validation R-squared for seed 103: 0.6050605240634486
-2025-04-11 12:22:25 - INFO - Validation Mean Squared Error for seed 103: 99242.81600289728
-2025-04-11 12:22:25 - INFO - Validation Mean Absolute Error for seed 103: 148.98860971267496
-2025-04-11 12:22:25 - INFO - New best model found for seed 103 with Training R-squared: 0.9697231205315058 and Validation R-squared: 0.6050605240634486
-2025-04-11 12:22:25 - INFO - ...DONE!
+2025-04-11 13:16:14 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:14 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 103...
+2025-04-11 13:16:17 - INFO - Model training completed successfully for seed 103.
+2025-04-11 13:16:17 - INFO - Training R-squared: 0.9581868302822806, Validation R-squared: 0.670203412310063
+2025-04-11 13:16:17 - INFO - Training Mean Squared Error: 46318.3388873605, Validation Mean Squared Error: 665411.497329817
+2025-04-11 13:16:17 - INFO - Training Mean Absolute Error: 60.18550426040389, Validation Mean Absolute Error: 180.2206710066205
+2025-04-11 13:16:17 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:17 - INFO - Validation R-squared for seed 103: 0.5594188181571795
+2025-04-11 13:16:17 - INFO - Validation Mean Squared Error for seed 103: 110711.94405238582
+2025-04-11 13:16:17 - INFO - Validation Mean Absolute Error for seed 103: 131.44508889540955
+2025-04-11 13:16:17 - INFO - New best model found for seed 103 with Training R-squared: 0.9581868302822806 and Validation R-squared: 0.5594188181571795
+2025-04-11 13:16:17 - INFO - ...DONE!
 
 
-2025-04-11 12:22:25 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:25 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 432...
-2025-04-11 12:22:28 - INFO - Model training completed successfully for seed 432.
-2025-04-11 12:22:28 - INFO - Training R-squared: 0.9534903899406253, Validation R-squared: 0.4614048343736581
-2025-04-11 12:22:28 - INFO - Training Mean Squared Error: 60543.46822717885, Validation Mean Squared Error: 356426.6455452941
-2025-04-11 12:22:28 - INFO - Training Mean Absolute Error: 66.83275019924851, Validation Mean Absolute Error: 208.7702270095337
-2025-04-11 12:22:28 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:28 - INFO - Validation R-squared for seed 432: -0.16093084279318348
-2025-04-11 12:22:28 - INFO - Validation Mean Squared Error for seed 432: 291725.8290025228
-2025-04-11 12:22:28 - INFO - Validation Mean Absolute Error for seed 432: 237.65570080881014
-2025-04-11 12:22:28 - INFO - ...DONE!
+2025-04-11 13:16:17 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:17 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 432...
+2025-04-11 13:16:20 - INFO - Model training completed successfully for seed 432.
+2025-04-11 13:16:20 - INFO - Training R-squared: 0.9584811450352074, Validation R-squared: 0.6954930057755191
+2025-04-11 13:16:20 - INFO - Training Mean Squared Error: 48771.9638666354, Validation Mean Squared Error: 535295.1466426441
+2025-04-11 13:16:20 - INFO - Training Mean Absolute Error: 63.53512254148037, Validation Mean Absolute Error: 194.1241163138145
+2025-04-11 13:16:20 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:20 - INFO - Validation R-squared for seed 432: 0.4816189869051294
+2025-04-11 13:16:20 - INFO - Validation Mean Squared Error for seed 432: 130261.9632539206
+2025-04-11 13:16:20 - INFO - Validation Mean Absolute Error for seed 432: 140.14093775323124
+2025-04-11 13:16:20 - INFO - ...DONE!
 
 
-2025-04-11 12:22:28 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:28 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 780...
-2025-04-11 12:22:31 - INFO - Model training completed successfully for seed 780.
-2025-04-11 12:22:31 - INFO - Training R-squared: 0.9454073978015755, Validation R-squared: 0.8433553286622122
-2025-04-11 12:22:31 - INFO - Training Mean Squared Error: 62036.51927536134, Validation Mean Squared Error: 206891.73031173376
-2025-04-11 12:22:31 - INFO - Training Mean Absolute Error: 65.28035124327178, Validation Mean Absolute Error: 146.37875091943752
-2025-04-11 12:22:31 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:31 - INFO - Validation R-squared for seed 780: -0.6207234453230439
-2025-04-11 12:22:31 - INFO - Validation Mean Squared Error for seed 780: 407265.33678192506
-2025-04-11 12:22:31 - INFO - Validation Mean Absolute Error for seed 780: 281.19405843131693
-2025-04-11 12:22:31 - INFO - ...DONE!
+2025-04-11 13:16:20 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:20 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 780...
+2025-04-11 13:16:23 - INFO - Model training completed successfully for seed 780.
+2025-04-11 13:16:23 - INFO - Training R-squared: 0.954039544605664, Validation R-squared: 0.6800251872188656
+2025-04-11 13:16:23 - INFO - Training Mean Squared Error: 57210.00005469714, Validation Mean Squared Error: 474131.930184807
+2025-04-11 13:16:23 - INFO - Training Mean Absolute Error: 72.2070780950735, Validation Mean Absolute Error: 184.68941646901172
+2025-04-11 13:16:23 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:23 - INFO - Validation R-squared for seed 780: 0.5942563786749991
+2025-04-11 13:16:23 - INFO - Validation Mean Squared Error for seed 780: 101957.74798155493
+2025-04-11 13:16:23 - INFO - Validation Mean Absolute Error for seed 780: 155.06867828430703
+2025-04-11 13:16:23 - INFO - ...DONE!
 
 
-2025-04-11 12:22:31 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:31 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 562...
-2025-04-11 12:22:34 - INFO - Model training completed successfully for seed 562.
-2025-04-11 12:22:34 - INFO - Training R-squared: 0.9531332991395214, Validation R-squared: -1.5388062401602065
-2025-04-11 12:22:34 - INFO - Training Mean Squared Error: 67853.72049294779, Validation Mean Squared Error: 53226.06968800825
-2025-04-11 12:22:34 - INFO - Training Mean Absolute Error: 69.56775041859319, Validation Mean Absolute Error: 56.19340837567629
-2025-04-11 12:22:34 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:34 - INFO - Validation R-squared for seed 562: -0.15741355237641885
-2025-04-11 12:22:34 - INFO - Validation Mean Squared Error for seed 562: 290841.98267434316
-2025-04-11 12:22:34 - INFO - Validation Mean Absolute Error for seed 562: 249.67914941946128
-2025-04-11 12:22:34 - INFO - ...DONE!
+2025-04-11 13:16:23 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:23 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 562...
+2025-04-11 13:16:27 - INFO - Model training completed successfully for seed 562.
+2025-04-11 13:16:27 - INFO - Training R-squared: 0.9544687801299475, Validation R-squared: 0.8327551699310274
+2025-04-11 13:16:27 - INFO - Training Mean Squared Error: 70359.71124294607, Validation Mean Squared Error: 39743.54568685785
+2025-04-11 13:16:27 - INFO - Training Mean Absolute Error: 83.2288988720736, Validation Mean Absolute Error: 64.95064912120756
+2025-04-11 13:16:27 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:27 - INFO - Validation R-squared for seed 562: -0.30226021950647186
+2025-04-11 13:16:27 - INFO - Validation Mean Squared Error for seed 562: 327239.94238837826
+2025-04-11 13:16:27 - INFO - Validation Mean Absolute Error for seed 562: 263.383944697208
+2025-04-11 13:16:27 - INFO - ...DONE!
 
 
-2025-04-11 12:22:34 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:34 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 951...
-2025-04-11 12:22:37 - INFO - Model training completed successfully for seed 951.
-2025-04-11 12:22:37 - INFO - Training R-squared: 0.9471198420800271, Validation R-squared: 0.8020118520795245
-2025-04-11 12:22:37 - INFO - Training Mean Squared Error: 61651.94672004739, Validation Mean Squared Error: 239548.70275779656
-2025-04-11 12:22:37 - INFO - Training Mean Absolute Error: 61.92598417782711, Validation Mean Absolute Error: 110.37101102349145
-2025-04-11 12:22:37 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:37 - INFO - Validation R-squared for seed 951: -0.059600599434167956
-2025-04-11 12:22:37 - INFO - Validation Mean Squared Error for seed 951: 266262.94339616434
-2025-04-11 12:22:37 - INFO - Validation Mean Absolute Error for seed 951: 234.436880861486
-2025-04-11 12:22:37 - INFO - ...DONE!
+2025-04-11 13:16:27 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:27 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 951...
+2025-04-11 13:16:30 - INFO - Model training completed successfully for seed 951.
+2025-04-11 13:16:30 - INFO - Training R-squared: 0.9415655651656165, Validation R-squared: 0.7940905507064554
+2025-04-11 13:16:30 - INFO - Training Mean Squared Error: 74358.47547242284, Validation Mean Squared Error: 282873.3267747684
+2025-04-11 13:16:30 - INFO - Training Mean Absolute Error: 69.71447295390804, Validation Mean Absolute Error: 134.11922644423439
+2025-04-11 13:16:30 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:30 - INFO - Validation R-squared for seed 951: -0.5084862899834965
+2025-04-11 13:16:30 - INFO - Validation Mean Squared Error for seed 951: 379061.69537677773
+2025-04-11 13:16:30 - INFO - Validation Mean Absolute Error for seed 951: 262.6566958824648
+2025-04-11 13:16:30 - INFO - ...DONE!
 
 
-2025-04-11 12:22:37 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:37 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 233...
-2025-04-11 12:22:41 - INFO - Model training completed successfully for seed 233.
-2025-04-11 12:22:41 - INFO - Training R-squared: 0.9488010655164858, Validation R-squared: 0.7216067565020648
-2025-04-11 12:22:41 - INFO - Training Mean Squared Error: 49626.324366892855, Validation Mean Squared Error: 551887.2326133595
-2025-04-11 12:22:41 - INFO - Training Mean Absolute Error: 59.8807832779986, Validation Mean Absolute Error: 192.31087910947417
-2025-04-11 12:22:41 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:41 - INFO - Validation R-squared for seed 233: 0.5093586220299164
-2025-04-11 12:22:41 - INFO - Validation Mean Squared Error for seed 233: 123291.37744922629
-2025-04-11 12:22:41 - INFO - Validation Mean Absolute Error for seed 233: 154.86828096575277
-2025-04-11 12:22:41 - INFO - ...DONE!
+2025-04-11 13:16:30 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:30 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 233...
+2025-04-11 13:16:33 - INFO - Model training completed successfully for seed 233.
+2025-04-11 13:16:33 - INFO - Training R-squared: 0.9452816475399266, Validation R-squared: 0.8961515251725263
+2025-04-11 13:16:33 - INFO - Training Mean Squared Error: 60694.243067928524, Validation Mean Squared Error: 207993.43775151222
+2025-04-11 13:16:33 - INFO - Training Mean Absolute Error: 73.42615474292543, Validation Mean Absolute Error: 148.08347663029815
+2025-04-11 13:16:33 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:33 - INFO - Validation R-squared for seed 233: 0.5925276419720816
+2025-04-11 13:16:33 - INFO - Validation Mean Squared Error for seed 233: 102392.15555278659
+2025-04-11 13:16:33 - INFO - Validation Mean Absolute Error for seed 233: 168.55303228453042
+2025-04-11 13:16:33 - INFO - ...DONE!
 
 
-2025-04-11 12:22:41 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:41 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 682...
-2025-04-11 12:22:44 - INFO - Model training completed successfully for seed 682.
-2025-04-11 12:22:44 - INFO - Training R-squared: 0.9579794937385978, Validation R-squared: 0.6310524212352577
-2025-04-11 12:22:44 - INFO - Training Mean Squared Error: 46021.466631940675, Validation Mean Squared Error: 550123.4357528632
-2025-04-11 12:22:44 - INFO - Training Mean Absolute Error: 55.83590618904637, Validation Mean Absolute Error: 211.27612292373865
-2025-04-11 12:22:44 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:22:44 - INFO - Validation R-squared for seed 682: 0.42789502595211004
-2025-04-11 12:22:44 - INFO - Validation Mean Squared Error for seed 682: 143762.0499676223
-2025-04-11 12:22:44 - INFO - Validation Mean Absolute Error for seed 682: 161.4157347860378
-2025-04-11 12:22:44 - INFO - ...DONE!
+2025-04-11 13:16:33 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:33 - INFO - STARTING THE RANDOMFOREST MODEL TRAINING PROCESS FOR SEED 682...
+2025-04-11 13:16:36 - INFO - Model training completed successfully for seed 682.
+2025-04-11 13:16:36 - INFO - Training R-squared: 0.9640658960494124, Validation R-squared: 0.35453565685963595
+2025-04-11 13:16:36 - INFO - Training Mean Squared Error: 53553.693425636455, Validation Mean Squared Error: 322416.4930568525
+2025-04-11 13:16:36 - INFO - Training Mean Absolute Error: 72.15309214126975, Validation Mean Absolute Error: 197.89295362551388
+2025-04-11 13:16:36 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:16:36 - INFO - Validation R-squared for seed 682: -1.4486887670675808
+2025-04-11 13:16:36 - INFO - Validation Mean Squared Error for seed 682: 615321.5456170064
+2025-04-11 13:16:36 - INFO - Validation Mean Absolute Error for seed 682: 331.53782213155097
+2025-04-11 13:16:36 - INFO - ...DONE!
 
 
-2025-04-11 12:22:44 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
-2025-04-11 12:22:44 - INFO - Training complete for all seeds.
-2025-04-11 12:22:44 - INFO - Best model is from seed 103 with Training R-squared: 0.9697231205315058 and Validation R-squared: 0.6050605240634486
+2025-04-11 13:16:36 - INFO - Best model saved to _Models/best_random_forest_model_data_3_size.pkl
+2025-04-11 13:16:36 - INFO - Training complete for all seeds.
+2025-04-11 13:16:36 - INFO - Best model is from seed 103 with Training R-squared: 0.9581868302822806 and Validation R-squared: 0.5594188181571795

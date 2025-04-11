@@ -1,48 +1,48 @@
-2025-04-11 12:08:09 - INFO - STARTING THE MLP MODEL TRAINING AND EVALUATION PROCESS...
-2025-04-11 12:08:09 - INFO - ---> Loading dataset from Data/data_1.csv
-2025-04-11 12:08:13 - INFO - MLP model training and grid search completed successfully.
-2025-04-11 12:08:13 - INFO - Best Parameters: {'regressor__estimator__activation': 'relu', 'regressor__estimator__alpha': 0.0001, 'regressor__estimator__hidden_layer_sizes': (50, 50), 'regressor__estimator__learning_rate_init': 0.001}
-2025-04-11 12:08:13 - INFO - Test R-squared: 0.6204437122308261
-2025-04-11 12:08:13 - INFO - Test Mean Squared Error: 467892.1448647437
-2025-04-11 12:08:13 - INFO - Test Mean Absolute Error: 262.11345765613714
-2025-04-11 12:08:13 - INFO - Best model saved successfully at _Models/mlp_size_data_1.pkl
-2025-04-11 12:08:13 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:08:13 - INFO - Model validation completed successfully.
-2025-04-11 12:08:13 - INFO - Validation R-squared: -2.4227009054941178
-2025-04-11 12:08:13 - INFO - Validation Mean Squared Error: 860077.2951131208
-2025-04-11 12:08:13 - INFO - Validation Mean Absolute Error: 460.3249047234538
-2025-04-11 12:08:13 - INFO - ...VALIDATION DONE!
+2025-04-11 13:13:59 - INFO - STARTING THE MLP MODEL TRAINING AND EVALUATION PROCESS...
+2025-04-11 13:13:59 - INFO - ---> Loading dataset from Data/data_1.csv
+2025-04-11 13:14:02 - INFO - MLP model training and grid search completed successfully.
+2025-04-11 13:14:02 - INFO - Best Parameters: {'regressor__estimator__activation': 'relu', 'regressor__estimator__alpha': 0.0001, 'regressor__estimator__hidden_layer_sizes': (50, 50), 'regressor__estimator__learning_rate_init': 0.001}
+2025-04-11 13:14:02 - INFO - Test R-squared: 0.6204437122308261
+2025-04-11 13:14:02 - INFO - Test Mean Squared Error: 467892.1448647437
+2025-04-11 13:14:02 - INFO - Test Mean Absolute Error: 262.11345765613714
+2025-04-11 13:14:02 - INFO - Best model saved successfully at _Models/mlp_size_data_1.pkl
+2025-04-11 13:14:02 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:02 - INFO - Model validation completed successfully.
+2025-04-11 13:14:02 - INFO - Validation R-squared: -2.4227009054941178
+2025-04-11 13:14:02 - INFO - Validation Mean Squared Error: 860077.2951131208
+2025-04-11 13:14:02 - INFO - Validation Mean Absolute Error: 460.3249047234538
+2025-04-11 13:14:02 - INFO - ...VALIDATION DONE!
 
 
-2025-04-11 12:08:17 - INFO - STARTING THE MLP MODEL TRAINING AND EVALUATION PROCESS...
-2025-04-11 12:08:17 - INFO - ---> Loading dataset from Data/data_2.csv
-2025-04-11 12:08:21 - INFO - MLP model training and grid search completed successfully.
-2025-04-11 12:08:21 - INFO - Best Parameters: {'regressor__estimator__activation': 'relu', 'regressor__estimator__alpha': 0.0001, 'regressor__estimator__hidden_layer_sizes': (50, 50), 'regressor__estimator__learning_rate_init': 0.01}
-2025-04-11 12:08:21 - INFO - Test R-squared: 0.23718733361258815
-2025-04-11 12:08:21 - INFO - Test Mean Squared Error: 431273.19313426013
-2025-04-11 12:08:21 - INFO - Test Mean Absolute Error: 130.23181000712336
-2025-04-11 12:08:21 - INFO - Best model saved successfully at _Models/mlp_size_data_2.pkl
-2025-04-11 12:08:21 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:08:21 - INFO - Model validation completed successfully.
-2025-04-11 12:08:21 - INFO - Validation R-squared: -5.8724564488818265
-2025-04-11 12:08:21 - INFO - Validation Mean Squared Error: 1726953.045721559
-2025-04-11 12:08:21 - INFO - Validation Mean Absolute Error: 523.7435647158712
-2025-04-11 12:08:21 - INFO - ...VALIDATION DONE!
+2025-04-11 13:14:04 - INFO - STARTING THE MLP MODEL TRAINING AND EVALUATION PROCESS...
+2025-04-11 13:14:04 - INFO - ---> Loading dataset from Data/data_2.csv
+2025-04-11 13:14:09 - INFO - MLP model training and grid search completed successfully.
+2025-04-11 13:14:09 - INFO - Best Parameters: {'regressor__estimator__activation': 'relu', 'regressor__estimator__alpha': 0.0001, 'regressor__estimator__hidden_layer_sizes': (50, 50), 'regressor__estimator__learning_rate_init': 0.001}
+2025-04-11 13:14:09 - INFO - Test R-squared: 0.4145911531284664
+2025-04-11 13:14:09 - INFO - Test Mean Squared Error: 502448.1975932408
+2025-04-11 13:14:09 - INFO - Test Mean Absolute Error: 241.4825490220169
+2025-04-11 13:14:09 - INFO - Best model saved successfully at _Models/mlp_size_data_2.pkl
+2025-04-11 13:14:09 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:09 - INFO - Model validation completed successfully.
+2025-04-11 13:14:09 - INFO - Validation R-squared: -4.2018513753800875
+2025-04-11 13:14:09 - INFO - Validation Mean Squared Error: 1307153.1471931187
+2025-04-11 13:14:09 - INFO - Validation Mean Absolute Error: 526.6065320331402
+2025-04-11 13:14:09 - INFO - ...VALIDATION DONE!
 
 
-2025-04-11 12:08:35 - INFO - STARTING THE MLP MODEL TRAINING AND EVALUATION PROCESS...
-2025-04-11 12:08:35 - INFO - ---> Loading dataset from Data/data_3.csv
-2025-04-11 12:08:39 - INFO - MLP model training and grid search completed successfully.
-2025-04-11 12:08:39 - INFO - Best Parameters: {'regressor__estimator__activation': 'relu', 'regressor__estimator__alpha': 0.001, 'regressor__estimator__hidden_layer_sizes': (50, 50), 'regressor__estimator__learning_rate_init': 0.01}
-2025-04-11 12:08:39 - INFO - Test R-squared: 0.890087749637861
-2025-04-11 12:08:39 - INFO - Test Mean Squared Error: 106058.03918829812
-2025-04-11 12:08:39 - INFO - Test Mean Absolute Error: 128.30284323789428
-2025-04-11 12:08:39 - INFO - Best model saved successfully at _Models/mlp_size_data_3.pkl
-2025-04-11 12:08:39 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:08:39 - INFO - Model validation completed successfully.
-2025-04-11 12:08:39 - INFO - Validation R-squared: -4.1840099012034395
-2025-04-11 12:08:39 - INFO - Validation Mean Squared Error: 1302669.832035183
-2025-04-11 12:08:39 - INFO - Validation Mean Absolute Error: 522.4877453307259
-2025-04-11 12:08:39 - INFO - ...VALIDATION DONE!
+2025-04-11 13:14:12 - INFO - STARTING THE MLP MODEL TRAINING AND EVALUATION PROCESS...
+2025-04-11 13:14:12 - INFO - ---> Loading dataset from Data/data_3.csv
+2025-04-11 13:14:17 - INFO - MLP model training and grid search completed successfully.
+2025-04-11 13:14:17 - INFO - Best Parameters: {'regressor__estimator__activation': 'relu', 'regressor__estimator__alpha': 0.0001, 'regressor__estimator__hidden_layer_sizes': (50, 50), 'regressor__estimator__learning_rate_init': 0.01}
+2025-04-11 13:14:17 - INFO - Test R-squared: 0.8719908409086017
+2025-04-11 13:14:17 - INFO - Test Mean Squared Error: 168252.27314203986
+2025-04-11 13:14:17 - INFO - Test Mean Absolute Error: 125.72669696329855
+2025-04-11 13:14:17 - INFO - Best model saved successfully at _Models/mlp_size_data_3.pkl
+2025-04-11 13:14:17 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 13:14:17 - INFO - Model validation completed successfully.
+2025-04-11 13:14:17 - INFO - Validation R-squared: -3.899908603480136
+2025-04-11 13:14:17 - INFO - Validation Mean Squared Error: 1231279.1138769712
+2025-04-11 13:14:17 - INFO - Validation Mean Absolute Error: 467.22426968043686
+2025-04-11 13:14:17 - INFO - ...VALIDATION DONE!
 
 

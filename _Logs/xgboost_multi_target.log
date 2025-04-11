@@ -1,391 +1,383 @@
-2025-04-11 12:49:45 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE AND PDI...
-2025-04-11 12:49:45 - INFO - ---> Loading dataset from Data/data_1.csv
-2025-04-11 12:49:45 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
-2025-04-11 12:49:47 - INFO - Model training completed successfully for seed 42.
-2025-04-11 12:49:47 - INFO - Training R-squared: 0.9607477784156799, Validation R-squared: 0.6205692291259766
-2025-04-11 12:49:47 - INFO - Training Mean Squared Error: 33035.58984375, Validation Mean Squared Error: 318245.8125
-2025-04-11 12:49:47 - INFO - Training Mean Absolute Error: 20.197505950927734, Validation Mean Absolute Error: 106.44471740722656
-2025-04-11 12:49:47 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:47 - INFO - Validation R-squared for seed 42: -9.745163917541504
-2025-04-11 12:49:47 - INFO - Validation Mean Squared Error for seed 42: 2604580.75
-2025-04-11 12:49:47 - INFO - Validation Mean Absolute Error for seed 42: 397.6903991699219
-2025-04-11 12:49:47 - INFO - New best model found for seed 42 with Validation R-squared: 0.6205692291259766
-2025-04-11 12:49:47 - INFO - ...DONE!
+2025-04-11 15:29:05 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE AND PDI...
+2025-04-11 15:29:05 - INFO - ---> Loading dataset from Data/data_1.csv
+2025-04-11 15:29:05 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
+2025-04-11 15:29:07 - INFO - Model training completed successfully for seed 42.
+2025-04-11 15:29:07 - INFO - Training R-squared: 0.9607477784156799, Validation R-squared: 0.6205692291259766
+2025-04-11 15:29:07 - INFO - Training Mean Squared Error: 33035.58984375, Validation Mean Squared Error: 318245.8125
+2025-04-11 15:29:07 - INFO - Training Mean Absolute Error: 20.197505950927734, Validation Mean Absolute Error: 106.44471740722656
+2025-04-11 15:29:07 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:07 - INFO - Validation R-squared for seed 42: -9.745163917541504
+2025-04-11 15:29:07 - INFO - Validation Mean Squared Error for seed 42: 2604580.75
+2025-04-11 15:29:07 - INFO - Validation Mean Absolute Error for seed 42: 397.6903991699219
+2025-04-11 15:29:07 - INFO - New best model found for seed 42 with Validation R-squared: 0.6205692291259766
+2025-04-11 15:29:07 - INFO - ...DONE!
 
 
-2025-04-11 12:49:47 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 279...
-2025-04-11 12:49:48 - INFO - Model training completed successfully for seed 279.
-2025-04-11 12:49:48 - INFO - Training R-squared: 0.9567512273788452, Validation R-squared: 0.6778565645217896
-2025-04-11 12:49:48 - INFO - Training Mean Squared Error: 35732.85546875, Validation Mean Squared Error: 221817.453125
-2025-04-11 12:49:48 - INFO - Training Mean Absolute Error: 22.517967224121094, Validation Mean Absolute Error: 69.12715148925781
-2025-04-11 12:49:48 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:48 - INFO - Validation R-squared for seed 279: -7.842301368713379
-2025-04-11 12:49:48 - INFO - Validation Mean Squared Error for seed 279: 2148142.5
-2025-04-11 12:49:48 - INFO - Validation Mean Absolute Error for seed 279: 359.7915954589844
-2025-04-11 12:49:48 - INFO - New best model found for seed 279 with Validation R-squared: 0.6778565645217896
-2025-04-11 12:49:48 - INFO - ...DONE!
+2025-04-11 15:29:07 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 279...
+2025-04-11 15:29:08 - INFO - Model training completed successfully for seed 279.
+2025-04-11 15:29:08 - INFO - Training R-squared: 0.9567512273788452, Validation R-squared: 0.6778565645217896
+2025-04-11 15:29:08 - INFO - Training Mean Squared Error: 35732.85546875, Validation Mean Squared Error: 221817.453125
+2025-04-11 15:29:08 - INFO - Training Mean Absolute Error: 22.517967224121094, Validation Mean Absolute Error: 69.12715148925781
+2025-04-11 15:29:08 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:08 - INFO - Validation R-squared for seed 279: -7.842301368713379
+2025-04-11 15:29:08 - INFO - Validation Mean Squared Error for seed 279: 2148142.5
+2025-04-11 15:29:08 - INFO - Validation Mean Absolute Error for seed 279: 359.7915954589844
+2025-04-11 15:29:08 - INFO - ...DONE!
 
 
-2025-04-11 12:49:48 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 897...
-2025-04-11 12:49:49 - INFO - Model training completed successfully for seed 897.
-2025-04-11 12:49:49 - INFO - Training R-squared: 0.9572626352310181, Validation R-squared: 0.368557870388031
-2025-04-11 12:49:49 - INFO - Training Mean Squared Error: 39659.94921875, Validation Mean Squared Error: 238892.390625
-2025-04-11 12:49:49 - INFO - Training Mean Absolute Error: 24.635818481445312, Validation Mean Absolute Error: 75.50288391113281
-2025-04-11 12:49:49 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:49 - INFO - Validation R-squared for seed 897: -5.728024482727051
-2025-04-11 12:49:49 - INFO - Validation Mean Squared Error for seed 897: 1599026.375
-2025-04-11 12:49:49 - INFO - Validation Mean Absolute Error for seed 897: 312.94952392578125
-2025-04-11 12:49:49 - INFO - New best model found for seed 897 with Validation R-squared: 0.368557870388031
-2025-04-11 12:49:49 - INFO - ...DONE!
+2025-04-11 15:29:08 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 897...
+2025-04-11 15:29:09 - INFO - Model training completed successfully for seed 897.
+2025-04-11 15:29:09 - INFO - Training R-squared: 0.9572626352310181, Validation R-squared: 0.368557870388031
+2025-04-11 15:29:09 - INFO - Training Mean Squared Error: 39659.94921875, Validation Mean Squared Error: 238892.390625
+2025-04-11 15:29:09 - INFO - Training Mean Absolute Error: 24.635818481445312, Validation Mean Absolute Error: 75.50288391113281
+2025-04-11 15:29:09 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:09 - INFO - Validation R-squared for seed 897: -5.728024482727051
+2025-04-11 15:29:09 - INFO - Validation Mean Squared Error for seed 897: 1599026.375
+2025-04-11 15:29:09 - INFO - Validation Mean Absolute Error for seed 897: 312.94952392578125
+2025-04-11 15:29:09 - INFO - ...DONE!
 
 
-2025-04-11 12:49:49 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 103...
-2025-04-11 12:49:50 - INFO - Model training completed successfully for seed 103.
-2025-04-11 12:49:50 - INFO - Training R-squared: 0.9854336380958557, Validation R-squared: 0.7348815202713013
-2025-04-11 12:49:50 - INFO - Training Mean Squared Error: 3339.4150390625, Validation Mean Squared Error: 361331.9375
-2025-04-11 12:49:50 - INFO - Training Mean Absolute Error: 7.98423957824707, Validation Mean Absolute Error: 105.54349517822266
-2025-04-11 12:49:50 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:50 - INFO - Validation R-squared for seed 103: -5.233049392700195
-2025-04-11 12:49:50 - INFO - Validation Mean Squared Error for seed 103: 1451164.0
-2025-04-11 12:49:50 - INFO - Validation Mean Absolute Error for seed 103: 318.3731994628906
-2025-04-11 12:49:50 - INFO - New best model found for seed 103 with Validation R-squared: 0.7348815202713013
-2025-04-11 12:49:50 - INFO - ...DONE!
+2025-04-11 15:29:09 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 103...
+2025-04-11 15:29:10 - INFO - Model training completed successfully for seed 103.
+2025-04-11 15:29:10 - INFO - Training R-squared: 0.9854336380958557, Validation R-squared: 0.7348815202713013
+2025-04-11 15:29:10 - INFO - Training Mean Squared Error: 3339.4150390625, Validation Mean Squared Error: 361331.9375
+2025-04-11 15:29:10 - INFO - Training Mean Absolute Error: 7.98423957824707, Validation Mean Absolute Error: 105.54349517822266
+2025-04-11 15:29:10 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:10 - INFO - Validation R-squared for seed 103: -5.233049392700195
+2025-04-11 15:29:10 - INFO - Validation Mean Squared Error for seed 103: 1451164.0
+2025-04-11 15:29:10 - INFO - Validation Mean Absolute Error for seed 103: 318.3731994628906
+2025-04-11 15:29:10 - INFO - New best model found for seed 103 with Validation R-squared: 0.7348815202713013
+2025-04-11 15:29:10 - INFO - ...DONE!
 
 
-2025-04-11 12:49:50 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 432...
-2025-04-11 12:49:53 - INFO - Model training completed successfully for seed 432.
-2025-04-11 12:49:53 - INFO - Training R-squared: 0.9569348096847534, Validation R-squared: 0.3477213978767395
-2025-04-11 12:49:53 - INFO - Training Mean Squared Error: 39614.94921875, Validation Mean Squared Error: 545910.5
-2025-04-11 12:49:53 - INFO - Training Mean Absolute Error: 22.82575798034668, Validation Mean Absolute Error: 103.187744140625
-2025-04-11 12:49:53 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:53 - INFO - Validation R-squared for seed 432: -0.7993391752243042
-2025-04-11 12:49:53 - INFO - Validation Mean Squared Error for seed 432: 372307.15625
-2025-04-11 12:49:53 - INFO - Validation Mean Absolute Error for seed 432: 184.84239196777344
-2025-04-11 12:49:53 - INFO - New best model found for seed 432 with Validation R-squared: 0.3477213978767395
-2025-04-11 12:49:53 - INFO - ...DONE!
+2025-04-11 15:29:10 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 432...
+2025-04-11 15:29:13 - INFO - Model training completed successfully for seed 432.
+2025-04-11 15:29:13 - INFO - Training R-squared: 0.9569348096847534, Validation R-squared: 0.3477213978767395
+2025-04-11 15:29:13 - INFO - Training Mean Squared Error: 39614.94921875, Validation Mean Squared Error: 545910.5
+2025-04-11 15:29:13 - INFO - Training Mean Absolute Error: 22.82575798034668, Validation Mean Absolute Error: 103.187744140625
+2025-04-11 15:29:13 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:13 - INFO - Validation R-squared for seed 432: -0.7993391752243042
+2025-04-11 15:29:13 - INFO - Validation Mean Squared Error for seed 432: 372307.15625
+2025-04-11 15:29:13 - INFO - Validation Mean Absolute Error for seed 432: 184.84239196777344
+2025-04-11 15:29:13 - INFO - ...DONE!
 
 
-2025-04-11 12:49:53 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 780...
-2025-04-11 12:49:54 - INFO - Model training completed successfully for seed 780.
-2025-04-11 12:49:54 - INFO - Training R-squared: 0.9616734385490417, Validation R-squared: 0.8774107694625854
-2025-04-11 12:49:54 - INFO - Training Mean Squared Error: 35605.359375, Validation Mean Squared Error: 27214.794921875
-2025-04-11 12:49:54 - INFO - Training Mean Absolute Error: 21.60469627380371, Validation Mean Absolute Error: 29.766056060791016
-2025-04-11 12:49:54 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:54 - INFO - Validation R-squared for seed 780: -3.1773276329040527
-2025-04-11 12:49:54 - INFO - Validation Mean Squared Error for seed 780: 977321.5625
-2025-04-11 12:49:54 - INFO - Validation Mean Absolute Error for seed 780: 230.2777099609375
-2025-04-11 12:49:54 - INFO - ...DONE!
+2025-04-11 15:29:13 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 780...
+2025-04-11 15:29:14 - INFO - Model training completed successfully for seed 780.
+2025-04-11 15:29:14 - INFO - Training R-squared: 0.9616734385490417, Validation R-squared: 0.8774107694625854
+2025-04-11 15:29:14 - INFO - Training Mean Squared Error: 35605.359375, Validation Mean Squared Error: 27214.794921875
+2025-04-11 15:29:14 - INFO - Training Mean Absolute Error: 21.60469627380371, Validation Mean Absolute Error: 29.766056060791016
+2025-04-11 15:29:14 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:14 - INFO - Validation R-squared for seed 780: -3.1773276329040527
+2025-04-11 15:29:14 - INFO - Validation Mean Squared Error for seed 780: 977321.5625
+2025-04-11 15:29:14 - INFO - Validation Mean Absolute Error for seed 780: 230.2777099609375
+2025-04-11 15:29:14 - INFO - ...DONE!
 
 
-2025-04-11 12:49:54 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 562...
-2025-04-11 12:49:55 - INFO - Model training completed successfully for seed 562.
-2025-04-11 12:49:55 - INFO - Training R-squared: 0.9581570625305176, Validation R-squared: 0.04163026809692383
-2025-04-11 12:49:55 - INFO - Training Mean Squared Error: 39367.93359375, Validation Mean Squared Error: 291891.09375
-2025-04-11 12:49:55 - INFO - Training Mean Absolute Error: 22.994979858398438, Validation Mean Absolute Error: 81.65362548828125
-2025-04-11 12:49:55 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:55 - INFO - Validation R-squared for seed 562: -5.115528106689453
-2025-04-11 12:49:55 - INFO - Validation Mean Squared Error for seed 562: 1439808.625
-2025-04-11 12:49:55 - INFO - Validation Mean Absolute Error for seed 562: 275.0860595703125
-2025-04-11 12:49:55 - INFO - ...DONE!
+2025-04-11 15:29:14 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 562...
+2025-04-11 15:29:15 - INFO - Model training completed successfully for seed 562.
+2025-04-11 15:29:15 - INFO - Training R-squared: 0.9581570625305176, Validation R-squared: 0.04163026809692383
+2025-04-11 15:29:15 - INFO - Training Mean Squared Error: 39367.93359375, Validation Mean Squared Error: 291891.09375
+2025-04-11 15:29:15 - INFO - Training Mean Absolute Error: 22.994979858398438, Validation Mean Absolute Error: 81.65362548828125
+2025-04-11 15:29:15 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:15 - INFO - Validation R-squared for seed 562: -5.115528106689453
+2025-04-11 15:29:15 - INFO - Validation Mean Squared Error for seed 562: 1439808.625
+2025-04-11 15:29:15 - INFO - Validation Mean Absolute Error for seed 562: 275.0860595703125
+2025-04-11 15:29:15 - INFO - ...DONE!
 
 
-2025-04-11 12:49:55 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 951...
-2025-04-11 12:49:56 - INFO - Model training completed successfully for seed 951.
-2025-04-11 12:49:56 - INFO - Training R-squared: 0.9858279228210449, Validation R-squared: 0.8235776424407959
-2025-04-11 12:49:56 - INFO - Training Mean Squared Error: 3361.30029296875, Validation Mean Squared Error: 224965.40625
-2025-04-11 12:49:56 - INFO - Training Mean Absolute Error: 8.461134910583496, Validation Mean Absolute Error: 75.89402770996094
-2025-04-11 12:49:56 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:56 - INFO - Validation R-squared for seed 951: -8.323495864868164
-2025-04-11 12:49:56 - INFO - Validation Mean Squared Error for seed 951: 2236859.75
-2025-04-11 12:49:56 - INFO - Validation Mean Absolute Error for seed 951: 408.60479736328125
-2025-04-11 12:49:56 - INFO - ...DONE!
+2025-04-11 15:29:15 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 951...
+2025-04-11 15:29:16 - INFO - Model training completed successfully for seed 951.
+2025-04-11 15:29:16 - INFO - Training R-squared: 0.9858279228210449, Validation R-squared: 0.8235776424407959
+2025-04-11 15:29:16 - INFO - Training Mean Squared Error: 3361.30029296875, Validation Mean Squared Error: 224965.40625
+2025-04-11 15:29:16 - INFO - Training Mean Absolute Error: 8.461134910583496, Validation Mean Absolute Error: 75.89402770996094
+2025-04-11 15:29:16 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:16 - INFO - Validation R-squared for seed 951: -8.323495864868164
+2025-04-11 15:29:16 - INFO - Validation Mean Squared Error for seed 951: 2236859.75
+2025-04-11 15:29:16 - INFO - Validation Mean Absolute Error for seed 951: 408.60479736328125
+2025-04-11 15:29:16 - INFO - ...DONE!
 
 
-2025-04-11 12:49:56 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 233...
-2025-04-11 12:49:57 - INFO - Model training completed successfully for seed 233.
-2025-04-11 12:49:57 - INFO - Training R-squared: 0.9524754285812378, Validation R-squared: 0.5883404016494751
-2025-04-11 12:49:57 - INFO - Training Mean Squared Error: 33052.2109375, Validation Mean Squared Error: 748464.5625
-2025-04-11 12:49:57 - INFO - Training Mean Absolute Error: 20.568889617919922, Validation Mean Absolute Error: 156.56187438964844
-2025-04-11 12:49:57 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:57 - INFO - Validation R-squared for seed 233: -3.7442541122436523
-2025-04-11 12:49:57 - INFO - Validation Mean Squared Error for seed 233: 1121908.125
-2025-04-11 12:49:57 - INFO - Validation Mean Absolute Error for seed 233: 324.32952880859375
-2025-04-11 12:49:57 - INFO - ...DONE!
+2025-04-11 15:29:16 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 233...
+2025-04-11 15:29:17 - INFO - Model training completed successfully for seed 233.
+2025-04-11 15:29:17 - INFO - Training R-squared: 0.9524754285812378, Validation R-squared: 0.5883404016494751
+2025-04-11 15:29:17 - INFO - Training Mean Squared Error: 33052.2109375, Validation Mean Squared Error: 748464.5625
+2025-04-11 15:29:17 - INFO - Training Mean Absolute Error: 20.568889617919922, Validation Mean Absolute Error: 156.56187438964844
+2025-04-11 15:29:17 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:17 - INFO - Validation R-squared for seed 233: -3.7442541122436523
+2025-04-11 15:29:17 - INFO - Validation Mean Squared Error for seed 233: 1121908.125
+2025-04-11 15:29:17 - INFO - Validation Mean Absolute Error for seed 233: 324.32952880859375
+2025-04-11 15:29:17 - INFO - ...DONE!
 
 
-2025-04-11 12:49:57 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 682...
-2025-04-11 12:49:58 - INFO - Model training completed successfully for seed 682.
-2025-04-11 12:49:58 - INFO - Training R-squared: 0.9587512612342834, Validation R-squared: 0.6258468627929688
-2025-04-11 12:49:58 - INFO - Training Mean Squared Error: 35818.125, Validation Mean Squared Error: 217396.71875
-2025-04-11 12:49:58 - INFO - Training Mean Absolute Error: 21.491106033325195, Validation Mean Absolute Error: 85.63360595703125
-2025-04-11 12:49:58 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:49:58 - INFO - Validation R-squared for seed 682: -3.790687084197998
-2025-04-11 12:49:58 - INFO - Validation Mean Squared Error for seed 682: 1103333.875
-2025-04-11 12:49:58 - INFO - Validation Mean Absolute Error for seed 682: 299.0972900390625
-2025-04-11 12:49:58 - INFO - ...DONE!
+2025-04-11 15:29:17 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 682...
+2025-04-11 15:29:18 - INFO - Model training completed successfully for seed 682.
+2025-04-11 15:29:18 - INFO - Training R-squared: 0.9587512612342834, Validation R-squared: 0.6258468627929688
+2025-04-11 15:29:18 - INFO - Training Mean Squared Error: 35818.125, Validation Mean Squared Error: 217396.71875
+2025-04-11 15:29:18 - INFO - Training Mean Absolute Error: 21.491106033325195, Validation Mean Absolute Error: 85.63360595703125
+2025-04-11 15:29:18 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:29:18 - INFO - Validation R-squared for seed 682: -3.790687084197998
+2025-04-11 15:29:18 - INFO - Validation Mean Squared Error for seed 682: 1103333.875
+2025-04-11 15:29:18 - INFO - Validation Mean Absolute Error for seed 682: 299.0972900390625
+2025-04-11 15:29:18 - INFO - ...DONE!
 
 
-2025-04-11 12:49:58 - INFO - Best model saved to _Models/best_xgboost_multi_target_data_1.pkl
-2025-04-11 12:49:58 - INFO - Training complete for all seeds.
-2025-04-11 12:49:58 - INFO - Best model is from seed 432 with Validation R-squared: -0.7993391752243042
-2025-04-11 12:50:15 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE AND PDI...
-2025-04-11 12:50:15 - INFO - ---> Loading dataset from Data/data_2.csv
-2025-04-11 12:50:15 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
-2025-04-11 12:50:28 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE AND PDI...
-2025-04-11 12:50:28 - INFO - ---> Loading dataset from Data/data_2.csv
-2025-04-11 12:50:28 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
-2025-04-11 12:50:31 - INFO - Model training completed successfully for seed 42.
-2025-04-11 12:50:31 - INFO - Training R-squared: 0.9616096019744873, Validation R-squared: 0.19535762071609497
-2025-04-11 12:50:31 - INFO - Training Mean Squared Error: 33451.484375, Validation Mean Squared Error: 370267.59375
-2025-04-11 12:50:31 - INFO - Training Mean Absolute Error: 19.3435115814209, Validation Mean Absolute Error: 85.31161499023438
-2025-04-11 12:50:31 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:31 - INFO - Validation R-squared for seed 42: -3.7843923568725586
-2025-04-11 12:50:31 - INFO - Validation Mean Squared Error for seed 42: 1132491.25
-2025-04-11 12:50:31 - INFO - Validation Mean Absolute Error for seed 42: 234.82762145996094
-2025-04-11 12:50:31 - INFO - New best model found for seed 42 with Validation R-squared: 0.19535762071609497
-2025-04-11 12:50:31 - INFO - ...DONE!
+2025-04-11 15:29:18 - INFO - Best model saved to _Models/best_xgboost_size_pdi_data_1.pkl
+2025-04-11 15:29:18 - INFO - Training complete for all seeds.
+2025-04-11 15:29:18 - INFO - Best model is from seed 103 with Validation R-squared: -5.233049392700195
+2025-04-11 15:30:32 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE AND PDI...
+2025-04-11 15:30:32 - INFO - ---> Loading dataset from Data/data_2.csv
+2025-04-11 15:30:32 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
+2025-04-11 15:30:34 - INFO - Model training completed successfully for seed 42.
+2025-04-11 15:30:34 - INFO - Training R-squared: 0.9648327827453613, Validation R-squared: 0.6766561269760132
+2025-04-11 15:30:34 - INFO - Training Mean Squared Error: 31741.462890625, Validation Mean Squared Error: 204321.1875
+2025-04-11 15:30:34 - INFO - Training Mean Absolute Error: 21.617639541625977, Validation Mean Absolute Error: 78.67201232910156
+2025-04-11 15:30:34 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:34 - INFO - Validation R-squared for seed 42: -3.4109435081481934
+2025-04-11 15:30:34 - INFO - Validation Mean Squared Error for seed 42: 998129.6875
+2025-04-11 15:30:34 - INFO - Validation Mean Absolute Error for seed 42: 276.3922119140625
+2025-04-11 15:30:34 - INFO - New best model found for seed 42 with Validation R-squared: 0.6766561269760132
+2025-04-11 15:30:34 - INFO - ...DONE!
 
 
-2025-04-11 12:50:31 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 279...
-2025-04-11 12:50:32 - INFO - Model training completed successfully for seed 279.
-2025-04-11 12:50:32 - INFO - Training R-squared: 0.9595798254013062, Validation R-squared: 0.7473927736282349
-2025-04-11 12:50:32 - INFO - Training Mean Squared Error: 30079.318359375, Validation Mean Squared Error: 162917.859375
-2025-04-11 12:50:32 - INFO - Training Mean Absolute Error: 17.121719360351562, Validation Mean Absolute Error: 74.32794952392578
-2025-04-11 12:50:32 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:32 - INFO - Validation R-squared for seed 279: -2.883380889892578
-2025-04-11 12:50:32 - INFO - Validation Mean Squared Error for seed 279: 899047.8125
-2025-04-11 12:50:32 - INFO - Validation Mean Absolute Error for seed 279: 234.4794921875
-2025-04-11 12:50:32 - INFO - New best model found for seed 279 with Validation R-squared: 0.7473927736282349
-2025-04-11 12:50:32 - INFO - ...DONE!
+2025-04-11 15:30:34 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 279...
+2025-04-11 15:30:35 - INFO - Model training completed successfully for seed 279.
+2025-04-11 15:30:35 - INFO - Training R-squared: 0.9731022119522095, Validation R-squared: 0.5399680137634277
+2025-04-11 15:30:35 - INFO - Training Mean Squared Error: 16648.310546875, Validation Mean Squared Error: 651872.8125
+2025-04-11 15:30:35 - INFO - Training Mean Absolute Error: 11.885677337646484, Validation Mean Absolute Error: 171.85450744628906
+2025-04-11 15:30:35 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:35 - INFO - Validation R-squared for seed 279: -4.253885746002197
+2025-04-11 15:30:35 - INFO - Validation Mean Squared Error for seed 279: 1269650.625
+2025-04-11 15:30:35 - INFO - Validation Mean Absolute Error for seed 279: 309.92132568359375
+2025-04-11 15:30:35 - INFO - ...DONE!
 
 
-2025-04-11 12:50:32 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 897...
-2025-04-11 12:50:35 - INFO - Model training completed successfully for seed 897.
-2025-04-11 12:50:35 - INFO - Training R-squared: 0.9616081714630127, Validation R-squared: 0.6779400706291199
-2025-04-11 12:50:35 - INFO - Training Mean Squared Error: 33451.8203125, Validation Mean Squared Error: 132732.59375
-2025-04-11 12:50:35 - INFO - Training Mean Absolute Error: 18.88764762878418, Validation Mean Absolute Error: 39.56616973876953
-2025-04-11 12:50:35 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:35 - INFO - Validation R-squared for seed 897: -4.122812747955322
-2025-04-11 12:50:35 - INFO - Validation Mean Squared Error for seed 897: 1214275.625
-2025-04-11 12:50:35 - INFO - Validation Mean Absolute Error for seed 897: 252.31961059570312
-2025-04-11 12:50:35 - INFO - ...DONE!
+2025-04-11 15:30:35 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 897...
+2025-04-11 15:30:36 - INFO - Model training completed successfully for seed 897.
+2025-04-11 15:30:36 - INFO - Training R-squared: 0.9640403389930725, Validation R-squared: 0.8292882442474365
+2025-04-11 15:30:36 - INFO - Training Mean Squared Error: 31656.583984375, Validation Mean Squared Error: 88690.8359375
+2025-04-11 15:30:36 - INFO - Training Mean Absolute Error: 20.249113082885742, Validation Mean Absolute Error: 47.80868148803711
+2025-04-11 15:30:36 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:36 - INFO - Validation R-squared for seed 897: -8.840044975280762
+2025-04-11 15:30:36 - INFO - Validation Mean Squared Error for seed 897: 2406204.25
+2025-04-11 15:30:36 - INFO - Validation Mean Absolute Error for seed 897: 402.57232666015625
+2025-04-11 15:30:36 - INFO - ...DONE!
 
 
-2025-04-11 12:50:35 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 103...
-2025-04-11 12:50:37 - INFO - Model training completed successfully for seed 103.
-2025-04-11 12:50:37 - INFO - Training R-squared: 0.9815047979354858, Validation R-squared: 0.7489415407180786
-2025-04-11 12:50:37 - INFO - Training Mean Squared Error: 5430.64111328125, Validation Mean Squared Error: 350190.875
-2025-04-11 12:50:37 - INFO - Training Mean Absolute Error: 6.77532434463501, Validation Mean Absolute Error: 116.42977905273438
-2025-04-11 12:50:37 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:37 - INFO - Validation R-squared for seed 103: -8.136832237243652
-2025-04-11 12:50:37 - INFO - Validation Mean Squared Error for seed 103: 2232587.75
-2025-04-11 12:50:37 - INFO - Validation Mean Absolute Error for seed 103: 405.5015869140625
-2025-04-11 12:50:37 - INFO - ...DONE!
+2025-04-11 15:30:36 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 103...
+2025-04-11 15:30:37 - INFO - Model training completed successfully for seed 103.
+2025-04-11 15:30:37 - INFO - Training R-squared: 0.9718555212020874, Validation R-squared: 0.6462054252624512
+2025-04-11 15:30:37 - INFO - Training Mean Squared Error: 19467.236328125, Validation Mean Squared Error: 195552.46875
+2025-04-11 15:30:37 - INFO - Training Mean Absolute Error: 17.10691261291504, Validation Mean Absolute Error: 78.0042495727539
+2025-04-11 15:30:37 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:37 - INFO - Validation R-squared for seed 103: -1.3190488815307617
+2025-04-11 15:30:37 - INFO - Validation Mean Squared Error for seed 103: 359114.5
+2025-04-11 15:30:37 - INFO - Validation Mean Absolute Error for seed 103: 186.7439422607422
+2025-04-11 15:30:37 - INFO - New best model found for seed 103 with Validation R-squared: 0.6462054252624512
+2025-04-11 15:30:37 - INFO - ...DONE!
 
 
-2025-04-11 12:50:37 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 432...
-2025-04-11 12:50:39 - INFO - Model training completed successfully for seed 432.
-2025-04-11 12:50:39 - INFO - Training R-squared: 0.975421667098999, Validation R-squared: 0.5677396059036255
-2025-04-11 12:50:39 - INFO - Training Mean Squared Error: 15947.25, Validation Mean Squared Error: 377123.1875
-2025-04-11 12:50:39 - INFO - Training Mean Absolute Error: 10.685139656066895, Validation Mean Absolute Error: 119.37004089355469
-2025-04-11 12:50:39 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:39 - INFO - Validation R-squared for seed 432: -6.841684818267822
-2025-04-11 12:50:39 - INFO - Validation Mean Squared Error for seed 432: 1916127.125
-2025-04-11 12:50:39 - INFO - Validation Mean Absolute Error for seed 432: 311.6978454589844
-2025-04-11 12:50:39 - INFO - ...DONE!
+2025-04-11 15:30:37 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 432...
+2025-04-11 15:30:38 - INFO - Model training completed successfully for seed 432.
+2025-04-11 15:30:38 - INFO - Training R-squared: 0.9677591919898987, Validation R-squared: 0.49253830313682556
+2025-04-11 15:30:38 - INFO - Training Mean Squared Error: 28418.388671875, Validation Mean Squared Error: 311874.65625
+2025-04-11 15:30:38 - INFO - Training Mean Absolute Error: 17.53678321838379, Validation Mean Absolute Error: 87.0808334350586
+2025-04-11 15:30:38 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:38 - INFO - Validation R-squared for seed 432: -7.476540565490723
+2025-04-11 15:30:38 - INFO - Validation Mean Squared Error for seed 432: 2041867.625
+2025-04-11 15:30:38 - INFO - Validation Mean Absolute Error for seed 432: 319.1435546875
+2025-04-11 15:30:38 - INFO - ...DONE!
 
 
-2025-04-11 12:50:39 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 780...
-2025-04-11 12:50:40 - INFO - Model training completed successfully for seed 780.
-2025-04-11 12:50:40 - INFO - Training R-squared: 0.9726681709289551, Validation R-squared: 0.5538371205329895
-2025-04-11 12:50:40 - INFO - Training Mean Squared Error: 15870.1728515625, Validation Mean Squared Error: 608291.375
-2025-04-11 12:50:40 - INFO - Training Mean Absolute Error: 10.192874908447266, Validation Mean Absolute Error: 148.1043701171875
-2025-04-11 12:50:40 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:40 - INFO - Validation R-squared for seed 780: -11.244457244873047
-2025-04-11 12:50:40 - INFO - Validation Mean Squared Error for seed 780: 3001150.0
-2025-04-11 12:50:40 - INFO - Validation Mean Absolute Error for seed 780: 494.0299377441406
-2025-04-11 12:50:40 - INFO - ...DONE!
+2025-04-11 15:30:38 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 780...
+2025-04-11 15:30:39 - INFO - Model training completed successfully for seed 780.
+2025-04-11 15:30:39 - INFO - Training R-squared: 0.9774584770202637, Validation R-squared: 0.6242718696594238
+2025-04-11 15:30:39 - INFO - Training Mean Squared Error: 15020.4931640625, Validation Mean Squared Error: 456689.15625
+2025-04-11 15:30:39 - INFO - Training Mean Absolute Error: 11.230475425720215, Validation Mean Absolute Error: 137.42771911621094
+2025-04-11 15:30:39 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:39 - INFO - Validation R-squared for seed 780: -9.735093116760254
+2025-04-11 15:30:39 - INFO - Validation Mean Squared Error for seed 780: 2628550.25
+2025-04-11 15:30:39 - INFO - Validation Mean Absolute Error for seed 780: 443.6005554199219
+2025-04-11 15:30:39 - INFO - ...DONE!
 
 
-2025-04-11 12:50:40 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 562...
-2025-04-11 12:50:42 - INFO - Model training completed successfully for seed 562.
-2025-04-11 12:50:42 - INFO - Training R-squared: 0.9650017023086548, Validation R-squared: -0.6156935691833496
-2025-04-11 12:50:42 - INFO - Training Mean Squared Error: 33445.21484375, Validation Mean Squared Error: 7105.8671875
-2025-04-11 12:50:42 - INFO - Training Mean Absolute Error: 19.017370223999023, Validation Mean Absolute Error: 18.610980987548828
-2025-04-11 12:50:42 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:42 - INFO - Validation R-squared for seed 562: -1.9115140438079834
-2025-04-11 12:50:42 - INFO - Validation Mean Squared Error for seed 562: 582483.5
-2025-04-11 12:50:42 - INFO - Validation Mean Absolute Error for seed 562: 226.5878143310547
-2025-04-11 12:50:42 - INFO - New best model found for seed 562 with Validation R-squared: -0.6156935691833496
-2025-04-11 12:50:42 - INFO - ...DONE!
+2025-04-11 15:30:39 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 562...
+2025-04-11 15:30:41 - INFO - Model training completed successfully for seed 562.
+2025-04-11 15:30:41 - INFO - Training R-squared: 0.9717534780502319, Validation R-squared: 0.8176781535148621
+2025-04-11 15:30:41 - INFO - Training Mean Squared Error: 26426.646484375, Validation Mean Squared Error: 48535.0234375
+2025-04-11 15:30:41 - INFO - Training Mean Absolute Error: 17.297351837158203, Validation Mean Absolute Error: 33.769798278808594
+2025-04-11 15:30:41 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:41 - INFO - Validation R-squared for seed 562: -4.074021816253662
+2025-04-11 15:30:41 - INFO - Validation Mean Squared Error for seed 562: 1212747.75
+2025-04-11 15:30:41 - INFO - Validation Mean Absolute Error for seed 562: 271.5068359375
+2025-04-11 15:30:41 - INFO - ...DONE!
 
 
-2025-04-11 12:50:42 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 951...
-2025-04-11 12:50:44 - INFO - Model training completed successfully for seed 951.
-2025-04-11 12:50:44 - INFO - Training R-squared: 0.9545944333076477, Validation R-squared: 0.5992628931999207
-2025-04-11 12:50:44 - INFO - Training Mean Squared Error: 30082.90234375, Validation Mean Squared Error: 574203.25
-2025-04-11 12:50:44 - INFO - Training Mean Absolute Error: 17.298723220825195, Validation Mean Absolute Error: 109.76972961425781
-2025-04-11 12:50:44 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:44 - INFO - Validation R-squared for seed 951: -1.759289026260376
-2025-04-11 12:50:44 - INFO - Validation Mean Squared Error for seed 951: 635000.5625
-2025-04-11 12:50:44 - INFO - Validation Mean Absolute Error for seed 951: 184.3697967529297
-2025-04-11 12:50:44 - INFO - New best model found for seed 951 with Validation R-squared: 0.5992628931999207
-2025-04-11 12:50:44 - INFO - ...DONE!
+2025-04-11 15:30:41 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 951...
+2025-04-11 15:30:42 - INFO - Model training completed successfully for seed 951.
+2025-04-11 15:30:42 - INFO - Training R-squared: 0.9747635722160339, Validation R-squared: 0.6475616693496704
+2025-04-11 15:30:42 - INFO - Training Mean Squared Error: 15354.6455078125, Validation Mean Squared Error: 484239.84375
+2025-04-11 15:30:42 - INFO - Training Mean Absolute Error: 13.910879135131836, Validation Mean Absolute Error: 111.19940948486328
+2025-04-11 15:30:42 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:42 - INFO - Validation R-squared for seed 951: -2.2537407875061035
+2025-04-11 15:30:42 - INFO - Validation Mean Squared Error for seed 951: 700303.5625
+2025-04-11 15:30:42 - INFO - Validation Mean Absolute Error for seed 951: 230.978515625
+2025-04-11 15:30:42 - INFO - ...DONE!
 
 
-2025-04-11 12:50:44 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 233...
-2025-04-11 12:50:45 - INFO - Model training completed successfully for seed 233.
-2025-04-11 12:50:45 - INFO - Training R-squared: 0.9846588969230652, Validation R-squared: 0.5326753258705139
-2025-04-11 12:50:45 - INFO - Training Mean Squared Error: 2705.19921875, Validation Mean Squared Error: 868350.4375
-2025-04-11 12:50:45 - INFO - Training Mean Absolute Error: 5.299058437347412, Validation Mean Absolute Error: 236.59483337402344
-2025-04-11 12:50:45 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:45 - INFO - Validation R-squared for seed 233: -1.5334469079971313
-2025-04-11 12:50:45 - INFO - Validation Mean Squared Error for seed 233: 579480.0625
-2025-04-11 12:50:45 - INFO - Validation Mean Absolute Error for seed 233: 213.76475524902344
-2025-04-11 12:50:45 - INFO - New best model found for seed 233 with Validation R-squared: 0.5326753258705139
-2025-04-11 12:50:45 - INFO - ...DONE!
+2025-04-11 15:30:42 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 233...
+2025-04-11 15:30:43 - INFO - Model training completed successfully for seed 233.
+2025-04-11 15:30:43 - INFO - Training R-squared: 0.9860994219779968, Validation R-squared: 0.6484889984130859
+2025-04-11 15:30:43 - INFO - Training Mean Squared Error: 2735.47265625, Validation Mean Squared Error: 705163.1875
+2025-04-11 15:30:43 - INFO - Training Mean Absolute Error: 7.673810958862305, Validation Mean Absolute Error: 179.29495239257812
+2025-04-11 15:30:43 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:43 - INFO - Validation R-squared for seed 233: -0.7993443608283997
+2025-04-11 15:30:43 - INFO - Validation Mean Squared Error for seed 233: 397834.78125
+2025-04-11 15:30:43 - INFO - Validation Mean Absolute Error for seed 233: 155.26113891601562
+2025-04-11 15:30:43 - INFO - New best model found for seed 233 with Validation R-squared: 0.6484889984130859
+2025-04-11 15:30:43 - INFO - ...DONE!
 
 
-2025-04-11 12:50:45 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 682...
-2025-04-11 12:50:47 - INFO - Model training completed successfully for seed 682.
-2025-04-11 12:50:47 - INFO - Training R-squared: 0.9757407307624817, Validation R-squared: 0.7335847616195679
-2025-04-11 12:50:47 - INFO - Training Mean Squared Error: 16198.87890625, Validation Mean Squared Error: 177372.765625
-2025-04-11 12:50:47 - INFO - Training Mean Absolute Error: 11.465060234069824, Validation Mean Absolute Error: 58.06013870239258
-2025-04-11 12:50:47 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:50:47 - INFO - Validation R-squared for seed 682: -6.433443069458008
-2025-04-11 12:50:47 - INFO - Validation Mean Squared Error for seed 682: 1806174.875
-2025-04-11 12:50:47 - INFO - Validation Mean Absolute Error for seed 682: 326.8085021972656
-2025-04-11 12:50:47 - INFO - ...DONE!
+2025-04-11 15:30:43 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 682...
+2025-04-11 15:30:44 - INFO - Model training completed successfully for seed 682.
+2025-04-11 15:30:44 - INFO - Training R-squared: 0.9693389534950256, Validation R-squared: 0.560827910900116
+2025-04-11 15:30:44 - INFO - Training Mean Squared Error: 32019.76953125, Validation Mean Squared Error: 71420.4375
+2025-04-11 15:30:44 - INFO - Training Mean Absolute Error: 22.488933563232422, Validation Mean Absolute Error: 48.001644134521484
+2025-04-11 15:30:44 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:30:44 - INFO - Validation R-squared for seed 682: -3.9941647052764893
+2025-04-11 15:30:44 - INFO - Validation Mean Squared Error for seed 682: 1171598.375
+2025-04-11 15:30:44 - INFO - Validation Mean Absolute Error for seed 682: 285.655517578125
+2025-04-11 15:30:44 - INFO - ...DONE!
 
 
-2025-04-11 12:50:47 - INFO - Best model saved to _Models/best_xgboost_multi_target_data_2.pkl
-2025-04-11 12:50:47 - INFO - Training complete for all seeds.
-2025-04-11 12:50:47 - INFO - Best model is from seed 233 with Validation R-squared: -1.5334469079971313
-2025-04-11 12:51:00 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE AND PDI...
-2025-04-11 12:51:00 - INFO - ---> Loading dataset from Data/data_3.csv
-2025-04-11 12:51:00 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
-2025-04-11 12:51:02 - INFO - Model training completed successfully for seed 42.
-2025-04-11 12:51:02 - INFO - Training R-squared: 0.9663998484611511, Validation R-squared: 0.8166849613189697
-2025-04-11 12:51:02 - INFO - Training Mean Squared Error: 27941.95703125, Validation Mean Squared Error: 117485.609375
-2025-04-11 12:51:02 - INFO - Training Mean Absolute Error: 19.94664764404297, Validation Mean Absolute Error: 72.75934600830078
-2025-04-11 12:51:02 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:02 - INFO - Validation R-squared for seed 42: -3.3015148639678955
-2025-04-11 12:51:02 - INFO - Validation Mean Squared Error for seed 42: 994668.9375
-2025-04-11 12:51:02 - INFO - Validation Mean Absolute Error for seed 42: 284.1956481933594
-2025-04-11 12:51:02 - INFO - New best model found for seed 42 with Validation R-squared: 0.8166849613189697
-2025-04-11 12:51:02 - INFO - ...DONE!
+2025-04-11 15:30:44 - INFO - Best model saved to _Models/best_xgboost_size_pdi_data_2.pkl
+2025-04-11 15:30:44 - INFO - Training complete for all seeds.
+2025-04-11 15:30:44 - INFO - Best model is from seed 233 with Validation R-squared: -0.7993443608283997
+2025-04-11 15:31:05 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR PREDICTING SIZE AND PDI...
+2025-04-11 15:31:05 - INFO - ---> Loading dataset from Data/data_3.csv
+2025-04-11 15:31:05 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 42...
+2025-04-11 15:31:07 - INFO - Model training completed successfully for seed 42.
+2025-04-11 15:31:07 - INFO - Training R-squared: 0.9745570421218872, Validation R-squared: 0.8198108673095703
+2025-04-11 15:31:07 - INFO - Training Mean Squared Error: 20796.70703125, Validation Mean Squared Error: 140559.609375
+2025-04-11 15:31:07 - INFO - Training Mean Absolute Error: 18.334270477294922, Validation Mean Absolute Error: 82.45634460449219
+2025-04-11 15:31:07 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:07 - INFO - Validation R-squared for seed 42: -2.646458387374878
+2025-04-11 15:31:07 - INFO - Validation Mean Squared Error for seed 42: 792805.9375
+2025-04-11 15:31:07 - INFO - Validation Mean Absolute Error for seed 42: 294.9928283691406
+2025-04-11 15:31:07 - INFO - New best model found for seed 42 with Validation R-squared: 0.8198108673095703
+2025-04-11 15:31:07 - INFO - ...DONE!
 
 
-2025-04-11 12:51:02 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 279...
-2025-04-11 12:51:05 - INFO - Model training completed successfully for seed 279.
-2025-04-11 12:51:05 - INFO - Training R-squared: 0.9904021620750427, Validation R-squared: 0.7432013750076294
-2025-04-11 12:51:05 - INFO - Training Mean Squared Error: 126.90645599365234, Validation Mean Squared Error: 457581.84375
-2025-04-11 12:51:05 - INFO - Training Mean Absolute Error: 2.713911771774292, Validation Mean Absolute Error: 146.4357452392578
-2025-04-11 12:51:05 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:05 - INFO - Validation R-squared for seed 279: -5.065596580505371
-2025-04-11 12:51:05 - INFO - Validation Mean Squared Error for seed 279: 1451103.625
-2025-04-11 12:51:05 - INFO - Validation Mean Absolute Error for seed 279: 305.026611328125
-2025-04-11 12:51:05 - INFO - ...DONE!
+2025-04-11 15:31:07 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 279...
+2025-04-11 15:31:08 - INFO - Model training completed successfully for seed 279.
+2025-04-11 15:31:08 - INFO - Training R-squared: 0.9761395454406738, Validation R-squared: 0.7995072603225708
+2025-04-11 15:31:08 - INFO - Training Mean Squared Error: 14370.890625, Validation Mean Squared Error: 245272.921875
+2025-04-11 15:31:08 - INFO - Training Mean Absolute Error: 13.781795501708984, Validation Mean Absolute Error: 111.9284439086914
+2025-04-11 15:31:08 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:09 - INFO - Validation R-squared for seed 279: -2.6073341369628906
+2025-04-11 15:31:09 - INFO - Validation Mean Squared Error for seed 279: 830129.8125
+2025-04-11 15:31:09 - INFO - Validation Mean Absolute Error for seed 279: 214.73306274414062
+2025-04-11 15:31:09 - INFO - New best model found for seed 279 with Validation R-squared: 0.7995072603225708
+2025-04-11 15:31:09 - INFO - ...DONE!
 
 
-2025-04-11 12:51:05 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 897...
-2025-04-11 12:51:07 - INFO - Model training completed successfully for seed 897.
-2025-04-11 12:51:07 - INFO - Training R-squared: 0.9724952578544617, Validation R-squared: 0.4143359363079071
-2025-04-11 12:51:07 - INFO - Training Mean Squared Error: 27612.22265625, Validation Mean Squared Error: 52272.8046875
-2025-04-11 12:51:07 - INFO - Training Mean Absolute Error: 16.84455108642578, Validation Mean Absolute Error: 33.04592514038086
-2025-04-11 12:51:07 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:07 - INFO - Validation R-squared for seed 897: -2.3251748085021973
-2025-04-11 12:51:07 - INFO - Validation Mean Squared Error for seed 897: 769402.75
-2025-04-11 12:51:07 - INFO - Validation Mean Absolute Error for seed 897: 243.6385955810547
-2025-04-11 12:51:07 - INFO - New best model found for seed 897 with Validation R-squared: 0.4143359363079071
-2025-04-11 12:51:07 - INFO - ...DONE!
+2025-04-11 15:31:09 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 897...
+2025-04-11 15:31:10 - INFO - Model training completed successfully for seed 897.
+2025-04-11 15:31:10 - INFO - Training R-squared: 0.9787552356719971, Validation R-squared: 0.6986498832702637
+2025-04-11 15:31:10 - INFO - Training Mean Squared Error: 20796.1484375, Validation Mean Squared Error: 156569.875
+2025-04-11 15:31:10 - INFO - Training Mean Absolute Error: 19.58885955810547, Validation Mean Absolute Error: 71.87454986572266
+2025-04-11 15:31:10 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:10 - INFO - Validation R-squared for seed 897: -2.4116196632385254
+2025-04-11 15:31:10 - INFO - Validation Mean Squared Error for seed 897: 795299.5625
+2025-04-11 15:31:10 - INFO - Validation Mean Absolute Error for seed 897: 252.46165466308594
+2025-04-11 15:31:10 - INFO - New best model found for seed 897 with Validation R-squared: 0.6986498832702637
+2025-04-11 15:31:10 - INFO - ...DONE!
 
 
-2025-04-11 12:51:07 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 103...
-2025-04-11 12:51:09 - INFO - Model training completed successfully for seed 103.
-2025-04-11 12:51:09 - INFO - Training R-squared: 0.9907399415969849, Validation R-squared: 0.8417117595672607
-2025-04-11 12:51:09 - INFO - Training Mean Squared Error: 163.7205810546875, Validation Mean Squared Error: 308219.28125
-2025-04-11 12:51:09 - INFO - Training Mean Absolute Error: 3.210547924041748, Validation Mean Absolute Error: 98.78546905517578
-2025-04-11 12:51:09 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:09 - INFO - Validation R-squared for seed 103: -6.417401313781738
-2025-04-11 12:51:09 - INFO - Validation Mean Squared Error for seed 103: 1806739.875
-2025-04-11 12:51:09 - INFO - Validation Mean Absolute Error for seed 103: 326.0890808105469
-2025-04-11 12:51:09 - INFO - ...DONE!
+2025-04-11 15:31:10 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 103...
+2025-04-11 15:31:11 - INFO - Model training completed successfully for seed 103.
+2025-04-11 15:31:11 - INFO - Training R-squared: 0.9924513101577759, Validation R-squared: 0.8212571144104004
+2025-04-11 15:31:11 - INFO - Training Mean Squared Error: 123.68228149414062, Validation Mean Squared Error: 316391.53125
+2025-04-11 15:31:11 - INFO - Training Mean Absolute Error: 3.7370150089263916, Validation Mean Absolute Error: 95.6964111328125
+2025-04-11 15:31:11 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:11 - INFO - Validation R-squared for seed 103: -5.785323143005371
+2025-04-11 15:31:11 - INFO - Validation Mean Squared Error for seed 103: 1617322.0
+2025-04-11 15:31:11 - INFO - Validation Mean Absolute Error for seed 103: 314.2494201660156
+2025-04-11 15:31:11 - INFO - ...DONE!
 
 
-2025-04-11 12:51:09 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 432...
-2025-04-11 12:51:11 - INFO - Model training completed successfully for seed 432.
-2025-04-11 12:51:11 - INFO - Training R-squared: 0.9709039926528931, Validation R-squared: 0.713866651058197
-2025-04-11 12:51:11 - INFO - Training Mean Squared Error: 27642.880859375, Validation Mean Squared Error: 78473.7265625
-2025-04-11 12:51:11 - INFO - Training Mean Absolute Error: 17.125669479370117, Validation Mean Absolute Error: 54.63017654418945
-2025-04-11 12:51:11 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:11 - INFO - Validation R-squared for seed 432: -3.2503881454467773
-2025-04-11 12:51:11 - INFO - Validation Mean Squared Error for seed 432: 995953.0
-2025-04-11 12:51:11 - INFO - Validation Mean Absolute Error for seed 432: 279.8787536621094
-2025-04-11 12:51:11 - INFO - ...DONE!
+2025-04-11 15:31:11 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 432...
+2025-04-11 15:31:13 - INFO - Model training completed successfully for seed 432.
+2025-04-11 15:31:13 - INFO - Training R-squared: 0.9825679659843445, Validation R-squared: 0.8071146011352539
+2025-04-11 15:31:13 - INFO - Training Mean Squared Error: 12426.009765625, Validation Mean Squared Error: 204187.234375
+2025-04-11 15:31:13 - INFO - Training Mean Absolute Error: 14.311885833740234, Validation Mean Absolute Error: 84.23907470703125
+2025-04-11 15:31:13 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:13 - INFO - Validation R-squared for seed 432: -4.497390270233154
+2025-04-11 15:31:13 - INFO - Validation Mean Squared Error for seed 432: 1303633.875
+2025-04-11 15:31:13 - INFO - Validation Mean Absolute Error for seed 432: 324.5254821777344
+2025-04-11 15:31:13 - INFO - ...DONE!
 
 
-2025-04-11 12:51:11 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 780...
-2025-04-11 12:51:14 - INFO - Model training completed successfully for seed 780.
-2025-04-11 12:51:14 - INFO - Training R-squared: 0.9700000882148743, Validation R-squared: 0.8430719971656799
-2025-04-11 12:51:14 - INFO - Training Mean Squared Error: 23171.95703125, Validation Mean Squared Error: 149081.28125
-2025-04-11 12:51:14 - INFO - Training Mean Absolute Error: 13.390914916992188, Validation Mean Absolute Error: 83.32707214355469
-2025-04-11 12:51:14 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:14 - INFO - Validation R-squared for seed 780: -3.1571712493896484
-2025-04-11 12:51:14 - INFO - Validation Mean Squared Error for seed 780: 946233.0625
-2025-04-11 12:51:14 - INFO - Validation Mean Absolute Error for seed 780: 262.1279602050781
-2025-04-11 12:51:14 - INFO - ...DONE!
+2025-04-11 15:31:13 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 780...
+2025-04-11 15:31:14 - INFO - Model training completed successfully for seed 780.
+2025-04-11 15:31:14 - INFO - Training R-squared: 0.9837437868118286, Validation R-squared: 0.8020591735839844
+2025-04-11 15:31:14 - INFO - Training Mean Squared Error: 11987.0615234375, Validation Mean Squared Error: 236237.4375
+2025-04-11 15:31:14 - INFO - Training Mean Absolute Error: 9.431143760681152, Validation Mean Absolute Error: 88.42049407958984
+2025-04-11 15:31:14 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:14 - INFO - Validation R-squared for seed 780: -4.334790229797363
+2025-04-11 15:31:14 - INFO - Validation Mean Squared Error for seed 780: 1256092.0
+2025-04-11 15:31:14 - INFO - Validation Mean Absolute Error for seed 780: 317.9350891113281
+2025-04-11 15:31:14 - INFO - ...DONE!
 
 
-2025-04-11 12:51:14 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 562...
-2025-04-11 12:51:17 - INFO - Model training completed successfully for seed 562.
-2025-04-11 12:51:17 - INFO - Training R-squared: 0.9729076623916626, Validation R-squared: 0.6645449995994568
-2025-04-11 12:51:17 - INFO - Training Mean Squared Error: 27810.48046875, Validation Mean Squared Error: 5043.64599609375
-2025-04-11 12:51:17 - INFO - Training Mean Absolute Error: 16.657785415649414, Validation Mean Absolute Error: 12.932466506958008
-2025-04-11 12:51:17 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:17 - INFO - Validation R-squared for seed 562: -3.2482728958129883
-2025-04-11 12:51:17 - INFO - Validation Mean Squared Error for seed 562: 1006425.75
-2025-04-11 12:51:17 - INFO - Validation Mean Absolute Error for seed 562: 236.49725341796875
-2025-04-11 12:51:17 - INFO - ...DONE!
+2025-04-11 15:31:14 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 562...
+2025-04-11 15:31:16 - INFO - Model training completed successfully for seed 562.
+2025-04-11 15:31:16 - INFO - Training R-squared: 0.9750651121139526, Validation R-squared: 0.922338604927063
+2025-04-11 15:31:16 - INFO - Training Mean Squared Error: 26696.927734375, Validation Mean Squared Error: 3427.313720703125
+2025-04-11 15:31:16 - INFO - Training Mean Absolute Error: 16.81814956665039, Validation Mean Absolute Error: 14.417895317077637
+2025-04-11 15:31:16 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:16 - INFO - Validation R-squared for seed 562: -2.1856305599212646
+2025-04-11 15:31:16 - INFO - Validation Mean Squared Error for seed 562: 735813.0
+2025-04-11 15:31:16 - INFO - Validation Mean Absolute Error for seed 562: 226.5554656982422
+2025-04-11 15:31:16 - INFO - ...DONE!
 
 
-2025-04-11 12:51:17 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 951...
-2025-04-11 12:51:19 - INFO - Model training completed successfully for seed 951.
-2025-04-11 12:51:19 - INFO - Training R-squared: 0.968552827835083, Validation R-squared: 0.7954744100570679
-2025-04-11 12:51:19 - INFO - Training Mean Squared Error: 25616.97265625, Validation Mean Squared Error: 200104.25
-2025-04-11 12:51:19 - INFO - Training Mean Absolute Error: 16.698711395263672, Validation Mean Absolute Error: 75.82071685791016
-2025-04-11 12:51:19 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:19 - INFO - Validation R-squared for seed 951: -2.1853525638580322
-2025-04-11 12:51:19 - INFO - Validation Mean Squared Error for seed 951: 712400.8125
-2025-04-11 12:51:19 - INFO - Validation Mean Absolute Error for seed 951: 248.0133056640625
-2025-04-11 12:51:19 - INFO - New best model found for seed 951 with Validation R-squared: 0.7954744100570679
-2025-04-11 12:51:19 - INFO - ...DONE!
+2025-04-11 15:31:16 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 951...
+2025-04-11 15:31:19 - INFO - Model training completed successfully for seed 951.
+2025-04-11 15:31:19 - INFO - Training R-squared: 0.9722084999084473, Validation R-squared: 0.5137102603912354
+2025-04-11 15:31:19 - INFO - Training Mean Squared Error: 26510.111328125, Validation Mean Squared Error: 399511.8125
+2025-04-11 15:31:19 - INFO - Training Mean Absolute Error: 15.34369945526123, Validation Mean Absolute Error: 101.95906829833984
+2025-04-11 15:31:19 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:19 - INFO - Validation R-squared for seed 951: -0.7194923162460327
+2025-04-11 15:31:19 - INFO - Validation Mean Squared Error for seed 951: 358150.34375
+2025-04-11 15:31:19 - INFO - Validation Mean Absolute Error for seed 951: 175.08929443359375
+2025-04-11 15:31:19 - INFO - ...DONE!
 
 
-2025-04-11 12:51:19 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 233...
-2025-04-11 12:51:20 - INFO - Model training completed successfully for seed 233.
-2025-04-11 12:51:20 - INFO - Training R-squared: 0.978604793548584, Validation R-squared: 0.8393794894218445
-2025-04-11 12:51:20 - INFO - Training Mean Squared Error: 12230.220703125, Validation Mean Squared Error: 200544.9375
-2025-04-11 12:51:20 - INFO - Training Mean Absolute Error: 9.46282958984375, Validation Mean Absolute Error: 90.33644104003906
-2025-04-11 12:51:20 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:20 - INFO - Validation R-squared for seed 233: -5.498819351196289
-2025-04-11 12:51:20 - INFO - Validation Mean Squared Error for seed 233: 1541165.125
-2025-04-11 12:51:20 - INFO - Validation Mean Absolute Error for seed 233: 315.39971923828125
-2025-04-11 12:51:20 - INFO - ...DONE!
+2025-04-11 15:31:19 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 233...
+2025-04-11 15:31:21 - INFO - Model training completed successfully for seed 233.
+2025-04-11 15:31:21 - INFO - Training R-squared: 0.9795442819595337, Validation R-squared: 0.8850316405296326
+2025-04-11 15:31:21 - INFO - Training Mean Squared Error: 13119.8515625, Validation Mean Squared Error: 175310.125
+2025-04-11 15:31:21 - INFO - Training Mean Absolute Error: 12.164291381835938, Validation Mean Absolute Error: 89.01251220703125
+2025-04-11 15:31:21 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:21 - INFO - Validation R-squared for seed 233: -2.772581100463867
+2025-04-11 15:31:21 - INFO - Validation Mean Squared Error for seed 233: 858628.0
+2025-04-11 15:31:21 - INFO - Validation Mean Absolute Error for seed 233: 246.70570373535156
+2025-04-11 15:31:21 - INFO - ...DONE!
 
 
-2025-04-11 12:51:20 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 682...
-2025-04-11 12:51:21 - INFO - Model training completed successfully for seed 682.
-2025-04-11 12:51:21 - INFO - Training R-squared: 0.9795690774917603, Validation R-squared: 0.8863000869750977
-2025-04-11 12:51:21 - INFO - Training Mean Squared Error: 12278.720703125, Validation Mean Squared Error: 116252.2421875
-2025-04-11 12:51:21 - INFO - Training Mean Absolute Error: 11.882201194763184, Validation Mean Absolute Error: 49.340301513671875
-2025-04-11 12:51:21 - INFO - ---> Loading validation dataset from Data/validation.csv
-2025-04-11 12:51:21 - INFO - Validation R-squared for seed 682: -3.0710177421569824
-2025-04-11 12:51:21 - INFO - Validation Mean Squared Error for seed 682: 968820.4375
-2025-04-11 12:51:21 - INFO - Validation Mean Absolute Error for seed 682: 224.7027587890625
-2025-04-11 12:51:21 - INFO - ...DONE!
+2025-04-11 15:31:21 - INFO - STARTING THE XGBOOST MODEL TRAINING PROCESS FOR SEED 682...
+2025-04-11 15:31:23 - INFO - Model training completed successfully for seed 682.
+2025-04-11 15:31:23 - INFO - Training R-squared: 0.9758495092391968, Validation R-squared: 0.8134576082229614
+2025-04-11 15:31:23 - INFO - Training Mean Squared Error: 26550.431640625, Validation Mean Squared Error: 59149.96875
+2025-04-11 15:31:23 - INFO - Training Mean Absolute Error: 16.171951293945312, Validation Mean Absolute Error: 45.28590393066406
+2025-04-11 15:31:23 - INFO - ---> Loading validation dataset from Data/validation.csv
+2025-04-11 15:31:23 - INFO - Validation R-squared for seed 682: -3.5461676120758057
+2025-04-11 15:31:23 - INFO - Validation Mean Squared Error for seed 682: 1051458.875
+2025-04-11 15:31:23 - INFO - Validation Mean Absolute Error for seed 682: 287.3593444824219
+2025-04-11 15:31:23 - INFO - ...DONE!
 
 
-2025-04-11 12:51:21 - INFO - Best model saved to _Models/best_xgboost_multi_target_data_3.pkl
-2025-04-11 12:51:21 - INFO - Training complete for all seeds.
-2025-04-11 12:51:21 - INFO - Best model is from seed 951 with Validation R-squared: -2.1853525638580322
+2025-04-11 15:31:23 - INFO - Best model saved to _Models/best_xgboost_size_pdi_data_3.pkl
+2025-04-11 15:31:23 - INFO - Training complete for all seeds.
+2025-04-11 15:31:23 - INFO - Best model is from seed 897 with Validation R-squared: -2.4116196632385254
