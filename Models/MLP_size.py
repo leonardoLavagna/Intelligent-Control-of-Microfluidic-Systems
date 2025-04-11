@@ -19,8 +19,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from _Files.config import logs_path, data_path, models_path, setup_logging
 
 
-file_path = data_path + "/data_1.csv"
-DATA = pd.read_csv(file_path)
+file_name = "data_3"
+file_path = data_path + f"/{file_name}.csv"
+DATA = pd.read_csv(file_path).dropna()
 
 
 setup_logging(logs_path, "mlp_size.log")
@@ -70,7 +71,7 @@ logging.info(f"Test R-squared: {r2}")
 logging.info(f"Test Mean Squared Error: {mse}")
 logging.info(f"Test Mean Absolute Error: {mae}")
 # Save the best model
-model_path = os.path.join(models_path, "mlp_size.pkl")
+model_path = os.path.join(models_path, f"mlp_size_{file_name}.pkl")
 with open(model_path, "wb") as f:
     pickle.dump(grid_search.best_estimator_, f)
 logging.info(f"Best model saved successfully at {model_path}")

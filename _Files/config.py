@@ -14,6 +14,7 @@ def setup_logging(root, path):
     """
     logging.basicConfig(
         filename=root + "/" + path,
+        filemode='a',
         level=logging.INFO,
         format="%(asctime)s - %(levelname)s - %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S"

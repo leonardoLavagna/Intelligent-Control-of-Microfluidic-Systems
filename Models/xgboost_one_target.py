@@ -19,9 +19,10 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from _Files.config import logs_path, data_path, models_path, setup_logging
 
 
-file_path = data_path + "/data_1.csv"
-DATA = pd.read_csv(file_path)
-target_variable = "SIZE"  
+file_name = "data_3"
+file_path = data_path + f"/{file_name}.csv"
+DATA = pd.read_csv(file_path).dropna()
+target_variable = "PDI"  
 
 
 setup_logging(logs_path, f"xgboost_one_target_{target_variable.lower()}.log")
@@ -97,7 +98,7 @@ def run_model(seed, best_model_info):
     logging.info("...DONE!\n\n")
     # Save the best model after training
     if best_model_info["best_model"] is not None:
-        model_save_path = models_path + f"/best_xgboost_model_{target_variable.lower()}.pkl"
+        model_save_path = models_path + f"/best_xgboost_model__{file_name}_{target_variable.lower()}.pkl"
         with open(model_save_path, 'wb') as model_file:
             pickle.dump(best_model_info["best_model"], model_file)
         logging.info(f"Best model saved to {model_save_path}")

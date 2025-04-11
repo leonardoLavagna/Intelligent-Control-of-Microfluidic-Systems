@@ -1,0 +1,50 @@
+2025-04-11 11:59:07 - INFO - CHECKING RAW DATA...
+2025-04-11 11:59:07 - INFO - ---> Processing _Raw_Data/seed.xlsx...
+2025-04-11 11:59:07 - WARNING - Renamed 'Main Lipid' to 'ML' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Chip' to 'CHIP' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'ESM concentration (mg/mL)' to 'ESM' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'HSPC concentration mg/mL' to 'HSPC' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Cholesterol concentration (mg/mL)' to 'CHOL' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'DSPE-PEG2000 concentration mg/mL' to 'PEG' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'TFR mL/min' to 'TFR' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Aqueous medium' to 'AQUEOUS' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Formation' to 'OUTPUT' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Size (nm)' to 'SIZE' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - CHIP: Replacing invalid 'droplet' with 'Droplet' (fuzzy match).
+2025-04-11 11:59:07 - WARNING - CHIP: Replacing invalid 'Micromixer ' with 'Micromixer' (fuzzy match).
+2025-04-11 11:59:07 - WARNING - FRR: Replacing out-of-bounds values with NaN.
+2025-04-11 11:59:07 - WARNING - SIZE: Replacing out-of-bounds values with NaN.
+2025-04-11 11:59:07 - INFO - Processed data saved to _Raw_Data/seed.csv
+2025-04-11 11:59:07 - INFO - ---> Processing _Raw_Data/validation_1.xlsx...
+2025-04-11 11:59:07 - WARNING - Renamed 'Main Lipid' to 'ML' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Chip' to 'CHIP' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'ESM concentration (mg/mL)' to 'ESM' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'HSPC concentration mg/mL' to 'HSPC' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Cholesterol concentration (mg/mL)' to 'CHOL' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'DSPE-PEG2000 concentration mg/mL' to 'PEG' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'TFR mL/min' to 'TFR' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Aqueous medium' to 'AQUEOUS' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Formation' to 'OUTPUT' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Size (nm)' to 'SIZE' based on custom renaming rules.
+2025-04-11 11:59:07 - INFO - Processed data saved to _Raw_Data/validation_1.csv
+2025-04-11 11:59:07 - INFO - ---> Processing _Raw_Data/extension_1.xlsx...
+2025-04-11 11:59:07 - WARNING - Renamed 'Main Lipid' to 'ML' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Chip' to 'CHIP' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'ESM concentration (mg/mL)' to 'ESM' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'HSPC concentration mg/mL' to 'HSPC' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Cholesterol concentration (mg/mL)' to 'CHOL' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'TFR mL/min' to 'TFR' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Buffer' to 'AQUEOUS' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renamed 'Size (nm)' to 'SIZE' based on custom renaming rules.
+2025-04-11 11:59:07 - WARNING - Renaming 'DSPE-PEG2000 concentration (mg/mL)' to 'PEG' based on fuzzy matching.
+2025-04-11 11:59:07 - INFO - Processed data saved to _Raw_Data/extension_1.csv
+2025-04-11 11:59:07 - INFO - Total changes made: 59
+2025-04-11 11:59:07 - INFO - ...DONE!
+
+
+2025-04-11 11:59:09 - INFO - CHECKING RAW DATA...
+2025-04-11 11:59:09 - INFO - No new files to process.
+2025-04-11 11:59:09 - INFO - Total changes made: 0
+2025-04-11 11:59:09 - INFO - ...DONE!
+
+
