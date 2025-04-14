@@ -7,12 +7,14 @@ from joblib import load
 from sklearn.metrics import r2_score
 import pickle
 from sklearn.metrics import mean_squared_error, mean_absolute_error
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 ######################################################################################################
 # 1. Load Files and Configurations
 ######################################################################################################
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from _Files.config import logs_path, data_path, models_path, setup_logging
+from _Files.config import logs_path, data_path, models_path, plots_path, setup_logging
 
 
 setup_logging(logs_path, "mixture_of_experts.log")
@@ -94,7 +96,7 @@ logging.info(f"Validation MAE for PDI: {validation_mae_pdi}")
 
 
 ######################################################################################################
-# 3. Save Refined Model
+# 3. Save Refined Model and plot results
 ######################################################################################################
 model_path = os.path.join(models_path, f"refined_model_size_pdi.pkl")
 logging.info(f"Saving the refined model at {model_path}")
@@ -105,4 +107,23 @@ with open(model_path, "wb") as f:
         'xgb_pdi': xgb_pdi
     }, f)
 logging.info("Refined model saved successfully.")
+# Plotting the results
+plt.figure(figsize=(12, 5))
+plt.subplot(1, 2, 1)
+sns.scatterplot(x=y_val_size, y=refined_validation_preds['Refined_SIZE'], color='dodgerblue', alpha=0.7)
+plt.plot([y_val_size.min(), y_val_size.max()], [y_val_size.min(), y_val_size.max()], 'r--')
+plt.title(f"SIZE ($R^2$ = {validation_r2_size:.3f})")
+plt.xlabel("Actual SIZE")
+plt.ylabel("Predicted SIZE")
+plt.subplot(1, 2, 2)
+sns.scatterplot(x=y_val_pdi, y=refined_validation_preds['Refined_PDI'], color='mediumseagreen', alpha=0.7)
+plt.plot([y_val_pdi.min(), y_val_pdi.max()], [y_val_pdi.min(), y_val_pdi.max()], 'r--')
+plt.title(f"PDI ($R^2$ = {validation_r2_pdi:.3f})")
+plt.xlabel("Actual PDI")
+plt.ylabel("Predicted PDI")
+plt.tight_layout()
+plots_path = os.path.join(plots_path, "mixture_of_experts_results.png")
+plt.savefig(plots_path)
+plt.show()
+logging.info(f"Plot saved at {plots_path}")
 logging.info("...VALIDATION DONE!\n\n")
