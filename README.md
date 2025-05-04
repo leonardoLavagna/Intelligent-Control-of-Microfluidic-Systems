@@ -1,4 +1,4 @@
-# liposomes_ai
+# Intelligent Control of Microfluidic Systems
 This is the code for the article ... in which we apply machine learning techniques to [microfluidics-based](https://en.wikipedia.org/wiki/Microfluidics) [liposome](https://en.wikipedia.org/wiki/Liposome) production at laboratory scale. 
 
 
