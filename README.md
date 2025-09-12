@@ -31,7 +31,8 @@ Here you can find all the processing steps we carried out.
 - `Notebooks` contains some new experiments we are carrying out, in a preliminary pipeline summarized in a sequence of Jupyter notebooks, for instance_
   - `graphical_models_causal_tests.ipynb` contains candidate graphical models to evaluate causal realtionships in the dataset that can be used to validate some of the models.
   - `validation_with_dags.ipynb` contains an example of causal validation of the mixture of experts model (i.e. `best_refined_model_size_pdi.pkl`) in `_Models` pretrained on `Data/data_1.csv` using one of the DAGs build in the previous notebook.
-   
+* `LICENSE` MIT License.
+  
 **Remark .** The best models have been obtained with the scripts `xgboost_one_target.py` with the results as in the logs `xgboost_one_target_size.log` and `xgboost_one_target_pdi.log` on `data_1.csv` with an extensive grid search, and cross-validation.
 
 
