@@ -19,7 +19,7 @@ Here you can find all the processing steps we carried out.
   - The set `validation.csv` contains the wet-lab validation experiments used to benchmark the performances of the proposed models.
   - The file `data_1.csv` is the dataset obtained merging `seed.csv` and `extension.csv`. This is the main file we considered in the project.
   - The file `data_2.csv` is obtained from `data_1.csv` with a gaussian-noise-data-extension (see the `data_1_augmented_gn.csv` file). This was an heuristic dataset we used to further benchmark the proposed methodology.
-  - The file `data_3.csv` is obtained from `data_2.csv` with SMOTE-data-extension (see the `data_1_augmented_gn.csv` file). This was an heuristic dataset we used to further benchmark the proposed methodology.
+  - The file `data_3.csv` is obtained from `data_1.csv` with SMOTE-data-extension (see the `data_1_augmented_SMOTE.csv` file). This was an heuristic dataset we used to further benchmark the proposed methodology.
 - `Plots` contains all the plots and figures of the project (in particular, those obtained via exploratory data analysis).
 - `Processing` contains processing functions as the data augmentation scripts (e.g. `data_gn_adder.py` for gaussian-noise-data-extension), data aggregation (via `data_merger.py`) and the exploratory data analysis in èxploratory_data_analysis.py`.
 - `Models` contains all the models we tested:
