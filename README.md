@@ -53,5 +53,16 @@ This project is licensed under the MIT License.
 Cite this repository or one of the associated papers, such as:
 
 ```
-....
+@article{BUTTITTA2025126362,
+title = {Machine Learning-Guided microfluidic optimization of clinically inspired liposomes for nanomedicine applications},
+journal = {International Journal of Pharmaceutics},
+volume = {686},
+pages = {126362},
+year = {2025},
+issn = {0378-5173},
+doi = {https://doi.org/10.1016/j.ijpharm.2025.126362},
+url = {https://www.sciencedirect.com/science/article/pii/S0378517325011998},
+author = {Giorgio Buttitta and Leonardo Lavagna and Simone Bonacorsi and Chiara Barbarito and Mauro Moliterno and Gabriele Saito and Irene Oddone and Giuliana Verdone and Sergio Raimondi and Massimo Panella},
+keywords = {Machine Learning, Artificial intelligence, Liposomes, Microfluidics, Nanomaterial, Nanomedicine}
+}
 ```
