@@ -2,9 +2,6 @@
 This is the code for the article [Machine Learning-Guided microfluidic optimization of clinically inspired liposomes for nanomedicine applications](https://www.sciencedirect.com/science/article/pii/S0378517325011998) in which we apply machine learning techniques to [microfluidics-based](https://en.wikipedia.org/wiki/Microfluidics) [liposome](https://en.wikipedia.org/wiki/Liposome) production at laboratory scale. 
 
 
-WORK IN PROGRESS...
-
-
 ## What's in here?
 Here you can find all the processing steps we carried out.
 - Underscore directories contain auxiliary files and should not be modified, in particular:
